@@ -1,0 +1,2001 @@
+Order ID,Order Date,Customer ID,Customer Name,Sales Person,Region,Product_Type,Price,Quantity
+9,2021-01-05,20,Company T,Andrew James,Arizona,Product 1,399,5
+12,2021-01-05,6,Company F,Laura Larsen,California,Product 1,399,6
+14,2021-01-05,4,Company D,Anna Weber,Texas,Product 1,399,4
+20,2021-01-07,5,Company E,Anna Weber,Texas,Product 1,399,3
+24,2021-01-07,12,Company L,Michael Fox,New Mexico,Product 1,399,2
+25,2021-01-08,3,Company C,Ben Wallace,Texas,Product 1,399,0
+28,2021-01-08,19,Company S,Andrew James,Arizona,Product 1,399,7
+32,2021-01-09,6,Company F,Laura Larsen,California,Product 1,399,3
+37,2021-01-11,13,Company M,Anne Lee,New Mexico,Product 1,399,4
+38,2021-01-12,20,Company T,Oscar Knox,Arizona,Product 1,399,3
+41,2021-01-13,9,Company I,Kim Fishman,California,Product 1,399,4
+44,2021-01-13,7,Company G,Laura Larsen,California,Product 1,399,5
+51,2021-01-13,19,Company S,Andrew James,Arizona,Product 1,399,6
+55,2021-01-15,7,Company G,Laura Larsen,California,Product 1,399,0
+59,2021-01-15,9,Company I,Kim Fishman,California,Product 1,399,7
+64,2021-01-18,9,Company I,Laura Larsen,California,Product 1,399,1
+72,2021-01-22,15,Company O,Anne Lee,New Mexico,Product 1,399,4
+81,2021-01-24,7,Company G,Laura Larsen,California,Product 1,399,6
+84,2021-01-25,18,Company R,Andrew James,Arizona,Product 1,399,1
+85,2021-01-26,4,Company D,Ben Wallace,Texas,Product 1,399,9
+86,2021-01-26,12,Company L,Michael Fox,New Mexico,Product 1,399,2
+92,2021-01-28,20,Company T,Oscar Knox,Arizona,Product 1,399,6
+93,2021-01-29,7,Company G,Kim Fishman,California,Product 1,399,1
+104,2021-02-02,4,Company D,Ben Wallace,Texas,Product 1,399,1
+108,2021-02-02,15,Company O,Anne Lee,New Mexico,Product 1,399,2
+111,2021-02-03,19,Company S,Andrew James,Arizona,Product 1,399,6
+112,2021-02-04,1,Company A,Anna Weber,Texas,Product 1,399,2
+113,2021-02-05,17,Company Q,Oscar Knox,Arizona,Product 1,399,5
+117,2021-02-05,14,Company N,Michael Fox,New Mexico,Product 1,399,7
+126,2021-02-08,18,Company R,Oscar Knox,Arizona,Product 1,399,4
+131,2021-02-11,10,Company J,Kim Fishman,California,Product 1,399,3
+133,2021-02-11,12,Company L,Michael Fox,New Mexico,Product 1,399,9
+137,2021-02-13,12,Company L,Anne Lee,New Mexico,Product 1,399,3
+138,2021-02-13,14,Company N,Anne Lee,New Mexico,Product 1,399,3
+140,2021-02-13,15,Company O,Anne Lee,New Mexico,Product 1,399,8
+148,2021-02-13,2,Company B,Ben Wallace,Texas,Product 1,399,2
+171,2021-02-19,8,Company H,Laura Larsen,California,Product 1,399,6
+173,2021-02-19,2,Company B,Ben Wallace,Texas,Product 1,399,1
+174,2021-02-19,6,Company F,Laura Larsen,California,Product 1,399,6
+185,2021-02-23,4,Company D,Ben Wallace,Texas,Product 1,399,5
+187,2021-02-24,17,Company Q,Oscar Knox,Arizona,Product 1,399,9
+189,2021-02-25,20,Company T,Oscar Knox,Arizona,Product 1,399,8
+192,2021-02-26,12,Company L,Anne Lee,New Mexico,Product 1,399,0
+206,2021-03-08,5,Company E,Ben Wallace,Texas,Product 1,399,6
+210,2021-03-08,14,Company N,Michael Fox,New Mexico,Product 1,399,8
+224,2021-03-11,9,Company I,Kim Fishman,California,Product 1,399,6
+225,2021-03-11,2,Company B,Anna Weber,Texas,Product 1,399,9
+226,2021-03-12,14,Company N,Michael Fox,New Mexico,Product 1,399,1
+227,2021-03-13,14,Company N,Michael Fox,New Mexico,Product 1,399,1
+230,2021-03-15,3,Company C,Anna Weber,Texas,Product 1,399,6
+232,2021-03-15,7,Company G,Laura Larsen,California,Product 1,399,9
+239,2021-03-16,16,Company P,Andrew James,Arizona,Product 1,399,9
+249,2021-03-18,19,Company S,Oscar Knox,Arizona,Product 1,399,3
+251,2021-03-18,2,Company B,Ben Wallace,Texas,Product 1,399,9
+253,2021-03-18,16,Company P,Oscar Knox,Arizona,Product 1,399,5
+258,2021-03-20,17,Company Q,Andrew James,Arizona,Product 1,399,5
+270,2021-03-25,14,Company N,Anne Lee,New Mexico,Product 1,399,9
+278,2021-03-26,6,Company F,Kim Fishman,California,Product 1,399,8
+297,2021-03-31,14,Company N,Michael Fox,New Mexico,Product 1,399,5
+301,2021-04-02,10,Company J,Kim Fishman,California,Product 1,399,9
+321,2021-04-12,9,Company I,Kim Fishman,California,Product 1,399,1
+325,2021-04-14,14,Company N,Anne Lee,New Mexico,Product 1,399,3
+330,2021-04-14,7,Company G,Laura Larsen,California,Product 1,399,8
+331,2021-04-14,10,Company J,Laura Larsen,California,Product 1,399,9
+333,2021-04-14,18,Company R,Oscar Knox,Arizona,Product 1,399,4
+338,2021-04-17,13,Company M,Michael Fox,New Mexico,Product 1,399,8
+350,2021-04-19,3,Company C,Anna Weber,Texas,Product 1,399,1
+353,2021-04-20,4,Company D,Anna Weber,Texas,Product 1,399,1
+355,2021-04-20,17,Company Q,Oscar Knox,Arizona,Product 1,399,6
+357,2021-04-21,3,Company C,Ben Wallace,Texas,Product 1,399,2
+359,2021-04-22,1,Company A,Ben Wallace,Texas,Product 1,399,5
+362,2021-04-22,5,Company E,Anna Weber,Texas,Product 1,399,2
+374,2021-04-25,5,Company E,Anna Weber,Texas,Product 1,399,3
+378,2021-04-25,11,Company K,Michael Fox,New Mexico,Product 1,399,3
+386,2021-04-28,3,Company C,Anna Weber,Texas,Product 1,399,2
+399,2021-05-03,5,Company E,Ben Wallace,Texas,Product 1,399,7
+403,2021-05-05,12,Company L,Anne Lee,New Mexico,Product 1,399,6
+417,2021-05-09,2,Company B,Anna Weber,Texas,Product 1,399,1
+432,2021-05-15,2,Company B,Anna Weber,Texas,Product 1,399,3
+442,2021-05-15,1,Company A,Anna Weber,Texas,Product 1,399,1
+447,2021-05-16,16,Company P,Andrew James,Arizona,Product 1,399,5
+453,2021-05-16,6,Company F,Laura Larsen,California,Product 1,399,3
+456,2021-05-17,3,Company C,Anna Weber,Texas,Product 1,399,7
+461,2021-05-18,7,Company G,Laura Larsen,California,Product 1,399,0
+462,2021-05-18,1,Company A,Anna Weber,Texas,Product 1,399,3
+463,2021-05-19,10,Company J,Kim Fishman,California,Product 1,399,9
+470,2021-05-20,14,Company N,Michael Fox,New Mexico,Product 1,399,9
+472,2021-05-22,5,Company E,Anna Weber,Texas,Product 1,399,3
+474,2021-05-23,18,Company R,Andrew James,Arizona,Product 1,399,3
+493,2021-05-26,9,Company I,Laura Larsen,California,Product 1,399,2
+507,2021-05-29,2,Company B,Ben Wallace,Texas,Product 1,399,9
+508,2021-05-29,19,Company S,Andrew James,Arizona,Product 1,399,6
+520,2021-06-03,18,Company R,Oscar Knox,Arizona,Product 1,399,7
+530,2021-06-03,16,Company P,Andrew James,Arizona,Product 1,399,7
+532,2021-06-04,11,Company K,Anne Lee,New Mexico,Product 1,399,8
+542,2021-06-08,9,Company I,Laura Larsen,California,Product 1,399,5
+545,2021-06-09,14,Company N,Anne Lee,New Mexico,Product 1,399,0
+553,2021-06-11,11,Company K,Michael Fox,New Mexico,Product 1,399,0
+556,2021-06-12,10,Company J,Laura Larsen,California,Product 1,399,0
+558,2021-06-13,14,Company N,Anne Lee,New Mexico,Product 1,399,9
+563,2021-06-16,13,Company M,Michael Fox,New Mexico,Product 1,399,0
+564,2021-06-16,15,Company O,Michael Fox,New Mexico,Product 1,399,6
+568,2021-06-16,14,Company N,Anne Lee,New Mexico,Product 1,399,0
+573,2021-06-19,20,Company T,Oscar Knox,Arizona,Product 1,399,5
+578,2021-06-21,14,Company N,Michael Fox,New Mexico,Product 1,399,9
+579,2021-06-22,7,Company G,Kim Fishman,California,Product 1,399,0
+582,2021-06-22,15,Company O,Anne Lee,New Mexico,Product 1,399,4
+583,2021-06-22,10,Company J,Laura Larsen,California,Product 1,399,3
+589,2021-06-24,5,Company E,Anna Weber,Texas,Product 1,399,3
+596,2021-06-26,11,Company K,Anne Lee,New Mexico,Product 1,399,9
+598,2021-06-28,10,Company J,Kim Fishman,California,Product 1,399,9
+607,2021-06-30,20,Company T,Oscar Knox,Arizona,Product 1,399,7
+618,2021-07-06,19,Company S,Andrew James,Arizona,Product 1,399,0
+625,2021-07-08,17,Company Q,Oscar Knox,Arizona,Product 1,399,8
+628,2021-07-08,14,Company N,Michael Fox,New Mexico,Product 1,399,5
+634,2021-07-11,5,Company E,Anna Weber,Texas,Product 1,399,0
+639,2021-07-13,16,Company P,Oscar Knox,Arizona,Product 1,399,3
+641,2021-07-14,10,Company J,Laura Larsen,California,Product 1,399,7
+642,2021-07-15,10,Company J,Laura Larsen,California,Product 1,399,9
+643,2021-07-15,13,Company M,Michael Fox,New Mexico,Product 1,399,8
+649,2021-07-17,8,Company H,Laura Larsen,California,Product 1,399,5
+664,2021-07-21,14,Company N,Anne Lee,New Mexico,Product 1,399,5
+665,2021-07-22,1,Company A,Anna Weber,Texas,Product 1,399,8
+669,2021-07-24,9,Company I,Kim Fishman,California,Product 1,399,6
+671,2021-07-24,13,Company M,Michael Fox,New Mexico,Product 1,399,1
+690,2021-07-27,5,Company E,Anna Weber,Texas,Product 1,399,5
+723,2021-08-08,8,Company H,Laura Larsen,California,Product 1,399,2
+730,2021-08-10,18,Company R,Andrew James,Arizona,Product 1,399,4
+731,2021-08-10,13,Company M,Michael Fox,New Mexico,Product 1,399,4
+735,2021-08-11,3,Company C,Ben Wallace,Texas,Product 1,399,0
+738,2021-08-12,8,Company H,Kim Fishman,California,Product 1,399,7
+745,2021-08-16,8,Company H,Kim Fishman,California,Product 1,399,0
+752,2021-08-19,8,Company H,Laura Larsen,California,Product 1,399,1
+753,2021-08-19,5,Company E,Anna Weber,Texas,Product 1,399,6
+756,2021-08-20,17,Company Q,Oscar Knox,Arizona,Product 1,399,6
+758,2021-08-20,10,Company J,Laura Larsen,California,Product 1,399,4
+760,2021-08-21,19,Company S,Andrew James,Arizona,Product 1,399,6
+764,2021-08-22,8,Company H,Laura Larsen,California,Product 1,399,2
+766,2021-08-22,14,Company N,Anne Lee,New Mexico,Product 1,399,9
+769,2021-08-25,7,Company G,Kim Fishman,California,Product 1,399,6
+770,2021-08-25,11,Company K,Michael Fox,New Mexico,Product 1,399,0
+775,2021-08-26,13,Company M,Anne Lee,New Mexico,Product 1,399,1
+776,2021-08-27,17,Company Q,Andrew James,Arizona,Product 1,399,2
+777,2021-08-27,4,Company D,Ben Wallace,Texas,Product 1,399,3
+780,2021-08-27,7,Company G,Kim Fishman,California,Product 1,399,8
+783,2021-08-29,8,Company H,Kim Fishman,California,Product 1,399,3
+785,2021-08-29,5,Company E,Ben Wallace,Texas,Product 1,399,6
+791,2021-08-31,18,Company R,Oscar Knox,Arizona,Product 1,399,3
+793,2021-09-01,10,Company J,Laura Larsen,California,Product 1,399,3
+799,2021-09-03,16,Company P,Andrew James,Arizona,Product 1,399,5
+802,2021-09-03,6,Company F,Laura Larsen,California,Product 1,399,8
+805,2021-09-05,19,Company S,Andrew James,Arizona,Product 1,399,7
+806,2021-09-05,5,Company E,Anna Weber,Texas,Product 1,399,6
+812,2021-09-07,16,Company P,Andrew James,Arizona,Product 1,399,1
+816,2021-09-08,15,Company O,Anne Lee,New Mexico,Product 1,399,4
+818,2021-09-09,13,Company M,Michael Fox,New Mexico,Product 1,399,3
+822,2021-09-10,19,Company S,Oscar Knox,Arizona,Product 1,399,4
+825,2021-09-11,20,Company T,Andrew James,Arizona,Product 1,399,9
+830,2021-09-13,1,Company A,Anna Weber,Texas,Product 1,399,6
+833,2021-09-15,16,Company P,Andrew James,Arizona,Product 1,399,9
+835,2021-09-15,19,Company S,Andrew James,Arizona,Product 1,399,2
+838,2021-09-18,7,Company G,Laura Larsen,California,Product 1,399,3
+852,2021-09-22,6,Company F,Laura Larsen,California,Product 1,399,9
+853,2021-09-22,14,Company N,Anne Lee,New Mexico,Product 1,399,4
+861,2021-09-24,14,Company N,Michael Fox,New Mexico,Product 1,399,2
+869,2021-09-28,14,Company N,Anne Lee,New Mexico,Product 1,399,3
+881,2021-10-01,9,Company I,Kim Fishman,California,Product 1,399,7
+897,2021-10-06,4,Company D,Anna Weber,Texas,Product 1,399,0
+901,2021-10-08,15,Company O,Michael Fox,New Mexico,Product 1,399,7
+902,2021-10-09,13,Company M,Michael Fox,New Mexico,Product 1,399,4
+919,2021-10-15,14,Company N,Anne Lee,New Mexico,Product 1,399,9
+921,2021-10-16,17,Company Q,Oscar Knox,Arizona,Product 1,399,6
+931,2021-10-18,17,Company Q,Andrew James,Arizona,Product 1,399,0
+938,2021-10-22,10,Company J,Kim Fishman,California,Product 1,399,0
+942,2021-10-22,1,Company A,Anna Weber,Texas,Product 1,399,8
+944,2021-10-23,4,Company D,Ben Wallace,Texas,Product 1,399,1
+949,2021-10-26,6,Company F,Laura Larsen,California,Product 1,399,5
+952,2021-10-27,6,Company F,Laura Larsen,California,Product 1,399,7
+958,2021-10-29,9,Company I,Kim Fishman,California,Product 1,399,2
+964,2021-10-29,7,Company G,Kim Fishman,California,Product 1,399,2
+967,2021-10-30,14,Company N,Anne Lee,New Mexico,Product 1,399,1
+970,2021-10-31,7,Company G,Laura Larsen,California,Product 1,399,0
+973,2021-11-03,13,Company M,Michael Fox,New Mexico,Product 1,399,0
+981,2021-11-07,2,Company B,Anna Weber,Texas,Product 1,399,4
+983,2021-11-08,18,Company R,Andrew James,Arizona,Product 1,399,9
+991,2021-11-09,18,Company R,Oscar Knox,Arizona,Product 1,399,9
+993,2021-11-10,10,Company J,Laura Larsen,California,Product 1,399,6
+1009,2021-11-16,8,Company H,Kim Fishman,California,Product 1,399,0
+1015,2021-11-19,5,Company E,Anna Weber,Texas,Product 1,399,2
+1018,2021-11-19,5,Company E,Ben Wallace,Texas,Product 1,399,1
+1019,2021-11-20,5,Company E,Ben Wallace,Texas,Product 1,399,8
+1021,2021-11-21,16,Company P,Oscar Knox,Arizona,Product 1,399,3
+1023,2021-11-22,5,Company E,Ben Wallace,Texas,Product 1,399,6
+1029,2021-11-22,8,Company H,Kim Fishman,California,Product 1,399,9
+1030,2021-11-22,7,Company G,Kim Fishman,California,Product 1,399,5
+1031,2021-11-22,10,Company J,Laura Larsen,California,Product 1,399,0
+1034,2021-11-23,3,Company C,Anna Weber,Texas,Product 1,399,2
+1035,2021-11-23,4,Company D,Anna Weber,Texas,Product 1,399,6
+1036,2021-11-23,13,Company M,Michael Fox,New Mexico,Product 1,399,9
+1044,2021-11-24,9,Company I,Laura Larsen,California,Product 1,399,1
+1045,2021-11-24,11,Company K,Anne Lee,New Mexico,Product 1,399,3
+1046,2021-11-25,4,Company D,Ben Wallace,Texas,Product 1,399,5
+1049,2021-11-27,2,Company B,Anna Weber,Texas,Product 1,399,8
+1050,2021-11-27,4,Company D,Ben Wallace,Texas,Product 1,399,6
+1058,2021-11-29,9,Company I,Laura Larsen,California,Product 1,399,6
+1061,2021-12-01,8,Company H,Laura Larsen,California,Product 1,399,5
+1063,2021-12-02,7,Company G,Laura Larsen,California,Product 1,399,3
+1067,2021-12-04,16,Company P,Andrew James,Arizona,Product 1,399,0
+1068,2021-12-05,5,Company E,Ben Wallace,Texas,Product 1,399,4
+1089,2021-12-13,1,Company A,Anna Weber,Texas,Product 1,399,1
+1096,2021-12-17,12,Company L,Michael Fox,New Mexico,Product 1,399,5
+1102,2021-12-18,12,Company L,Michael Fox,New Mexico,Product 1,399,3
+1103,2021-12-18,5,Company E,Ben Wallace,Texas,Product 1,399,0
+1108,2021-12-18,14,Company N,Michael Fox,New Mexico,Product 1,399,5
+1111,2021-12-20,4,Company D,Anna Weber,Texas,Product 1,399,8
+1118,2021-12-20,18,Company R,Oscar Knox,Arizona,Product 1,399,7
+1121,2021-12-22,14,Company N,Anne Lee,New Mexico,Product 1,399,7
+1128,2021-12-24,9,Company I,Laura Larsen,California,Product 1,399,2
+1142,2021-12-27,16,Company P,Oscar Knox,Arizona,Product 1,399,8
+1144,2021-12-29,11,Company K,Michael Fox,New Mexico,Product 1,399,2
+1145,2021-12-30,12,Company L,Michael Fox,New Mexico,Product 1,399,8
+1147,2022-01-01,20,Company T,Andrew James,Arizona,Product 1,399,4
+1178,2022-01-12,19,Company S,Oscar Knox,Arizona,Product 1,399,5
+1179,2022-01-12,10,Company J,Laura Larsen,California,Product 1,399,7
+1181,2022-01-12,11,Company K,Anne Lee,New Mexico,Product 1,399,4
+1183,2022-01-13,3,Company C,Ben Wallace,Texas,Product 1,399,7
+1187,2022-01-13,4,Company D,Ben Wallace,Texas,Product 1,399,2
+1190,2022-01-13,2,Company B,Anna Weber,Texas,Product 1,399,4
+1191,2022-01-13,18,Company R,Andrew James,Arizona,Product 1,399,1
+1195,2022-01-14,19,Company S,Oscar Knox,Arizona,Product 1,399,8
+1203,2022-01-17,14,Company N,Michael Fox,New Mexico,Product 1,399,2
+1208,2022-01-18,7,Company G,Kim Fishman,California,Product 1,399,6
+1209,2022-01-18,12,Company L,Anne Lee,New Mexico,Product 1,399,3
+1223,2022-01-25,18,Company R,Andrew James,Arizona,Product 1,399,9
+1225,2022-01-26,7,Company G,Laura Larsen,California,Product 1,399,8
+1226,2022-01-26,1,Company A,Ben Wallace,Texas,Product 1,399,4
+1227,2022-01-26,10,Company J,Kim Fishman,California,Product 1,399,4
+1230,2022-01-28,3,Company C,Anna Weber,Texas,Product 1,399,5
+1237,2022-01-31,2,Company B,Ben Wallace,Texas,Product 1,399,7
+1249,2022-02-05,9,Company I,Laura Larsen,California,Product 1,399,7
+1255,2022-02-07,14,Company N,Michael Fox,New Mexico,Product 1,399,4
+1256,2022-02-07,8,Company H,Kim Fishman,California,Product 1,399,9
+1259,2022-02-09,7,Company G,Kim Fishman,California,Product 1,399,5
+1263,2022-02-11,20,Company T,Oscar Knox,Arizona,Product 1,399,2
+1264,2022-02-12,10,Company J,Kim Fishman,California,Product 1,399,5
+1269,2022-02-14,13,Company M,Michael Fox,New Mexico,Product 1,399,6
+1275,2022-02-18,8,Company H,Laura Larsen,California,Product 1,399,7
+1276,2022-02-18,14,Company N,Anne Lee,New Mexico,Product 1,399,9
+1277,2022-02-19,9,Company I,Kim Fishman,California,Product 1,399,5
+1278,2022-02-19,3,Company C,Ben Wallace,Texas,Product 1,399,7
+1283,2022-02-19,7,Company G,Kim Fishman,California,Product 1,399,3
+1287,2022-02-19,16,Company P,Oscar Knox,Arizona,Product 1,399,7
+1295,2022-02-21,18,Company R,Oscar Knox,Arizona,Product 1,399,3
+1298,2022-02-22,3,Company C,Ben Wallace,Texas,Product 1,399,3
+1304,2022-02-23,8,Company H,Kim Fishman,California,Product 1,399,5
+1307,2022-02-23,3,Company C,Ben Wallace,Texas,Product 1,399,8
+1308,2022-02-24,4,Company D,Anna Weber,Texas,Product 1,399,2
+1309,2022-02-24,2,Company B,Ben Wallace,Texas,Product 1,399,6
+1318,2022-02-26,14,Company N,Michael Fox,New Mexico,Product 1,399,2
+1322,2022-02-28,19,Company S,Oscar Knox,Arizona,Product 1,399,9
+1325,2022-03-01,8,Company H,Kim Fishman,California,Product 1,399,3
+1330,2022-03-02,7,Company G,Kim Fishman,California,Product 1,399,7
+1334,2022-03-05,12,Company L,Michael Fox,New Mexico,Product 1,399,1
+1338,2022-03-07,9,Company I,Laura Larsen,California,Product 1,399,0
+1354,2022-03-10,19,Company S,Oscar Knox,Arizona,Product 1,399,3
+1360,2022-03-11,17,Company Q,Oscar Knox,Arizona,Product 1,399,6
+1362,2022-03-11,9,Company I,Kim Fishman,California,Product 1,399,5
+1368,2022-03-12,19,Company S,Andrew James,Arizona,Product 1,399,9
+1370,2022-03-13,19,Company S,Oscar Knox,Arizona,Product 1,399,2
+1371,2022-03-13,15,Company O,Michael Fox,New Mexico,Product 1,399,9
+1376,2022-03-17,7,Company G,Laura Larsen,California,Product 1,399,6
+1378,2022-03-17,14,Company N,Michael Fox,New Mexico,Product 1,399,7
+1383,2022-03-19,14,Company N,Anne Lee,New Mexico,Product 1,399,8
+1385,2022-03-19,17,Company Q,Oscar Knox,Arizona,Product 1,399,5
+1388,2022-03-19,9,Company I,Laura Larsen,California,Product 1,399,9
+1391,2022-03-19,10,Company J,Laura Larsen,California,Product 1,399,0
+1396,2022-03-22,11,Company K,Michael Fox,New Mexico,Product 1,399,9
+1400,2022-03-23,5,Company E,Ben Wallace,Texas,Product 1,399,1
+1403,2022-03-23,9,Company I,Kim Fishman,California,Product 1,399,9
+1407,2022-03-24,12,Company L,Anne Lee,New Mexico,Product 1,399,8
+1408,2022-03-25,3,Company C,Anna Weber,Texas,Product 1,399,9
+1409,2022-03-25,18,Company R,Andrew James,Arizona,Product 1,399,3
+1413,2022-03-27,4,Company D,Anna Weber,Texas,Product 1,399,6
+1423,2022-03-30,7,Company G,Kim Fishman,California,Product 1,399,2
+1426,2022-03-31,13,Company M,Anne Lee,New Mexico,Product 1,399,0
+1427,2022-03-31,10,Company J,Laura Larsen,California,Product 1,399,8
+1429,2022-04-01,1,Company A,Ben Wallace,Texas,Product 1,399,4
+1431,2022-04-02,8,Company H,Kim Fishman,California,Product 1,399,0
+1446,2022-04-07,12,Company L,Anne Lee,New Mexico,Product 1,399,5
+1452,2022-04-09,9,Company I,Laura Larsen,California,Product 1,399,5
+1465,2022-04-13,13,Company M,Anne Lee,New Mexico,Product 1,399,0
+1466,2022-04-14,9,Company I,Kim Fishman,California,Product 1,399,7
+1468,2022-04-15,6,Company F,Kim Fishman,California,Product 1,399,0
+1471,2022-04-18,5,Company E,Ben Wallace,Texas,Product 1,399,8
+1475,2022-04-18,13,Company M,Michael Fox,New Mexico,Product 1,399,5
+1477,2022-04-19,4,Company D,Anna Weber,Texas,Product 1,399,7
+1478,2022-04-19,4,Company D,Ben Wallace,Texas,Product 1,399,9
+1479,2022-04-19,10,Company J,Kim Fishman,California,Product 1,399,4
+1480,2022-04-20,6,Company F,Kim Fishman,California,Product 1,399,6
+1483,2022-04-20,20,Company T,Andrew James,Arizona,Product 1,399,9
+1490,2022-04-23,19,Company S,Oscar Knox,Arizona,Product 1,399,1
+1491,2022-04-23,5,Company E,Anna Weber,Texas,Product 1,399,8
+1492,2022-04-23,11,Company K,Anne Lee,New Mexico,Product 1,399,6
+1493,2022-04-23,8,Company H,Laura Larsen,California,Product 1,399,2
+1496,2022-04-25,10,Company J,Kim Fishman,California,Product 1,399,5
+1504,2022-04-30,11,Company K,Michael Fox,New Mexico,Product 1,399,5
+1511,2022-05-03,16,Company P,Andrew James,Arizona,Product 1,399,3
+1515,2022-05-03,18,Company R,Oscar Knox,Arizona,Product 1,399,6
+1521,2022-05-05,19,Company S,Oscar Knox,Arizona,Product 1,399,5
+1530,2022-05-07,15,Company O,Michael Fox,New Mexico,Product 1,399,0
+1537,2022-05-10,17,Company Q,Oscar Knox,Arizona,Product 1,399,1
+1543,2022-05-13,11,Company K,Anne Lee,New Mexico,Product 1,399,2
+1545,2022-05-14,11,Company K,Michael Fox,New Mexico,Product 1,399,6
+1551,2022-05-17,1,Company A,Ben Wallace,Texas,Product 1,399,7
+1558,2022-05-18,2,Company B,Ben Wallace,Texas,Product 1,399,4
+1559,2022-05-19,10,Company J,Kim Fishman,California,Product 1,399,1
+1563,2022-05-20,19,Company S,Andrew James,Arizona,Product 1,399,8
+1572,2022-05-24,14,Company N,Anne Lee,New Mexico,Product 1,399,4
+1576,2022-05-25,12,Company L,Anne Lee,New Mexico,Product 1,399,2
+1594,2022-05-27,11,Company K,Anne Lee,New Mexico,Product 1,399,0
+1601,2022-05-29,17,Company Q,Oscar Knox,Arizona,Product 1,399,2
+1620,2022-06-05,9,Company I,Laura Larsen,California,Product 1,399,0
+1627,2022-06-06,5,Company E,Ben Wallace,Texas,Product 1,399,6
+1629,2022-06-06,9,Company I,Laura Larsen,California,Product 1,399,0
+1632,2022-06-06,1,Company A,Ben Wallace,Texas,Product 1,399,0
+1637,2022-06-08,10,Company J,Laura Larsen,California,Product 1,399,5
+1639,2022-06-08,20,Company T,Oscar Knox,Arizona,Product 1,399,6
+1642,2022-06-08,17,Company Q,Oscar Knox,Arizona,Product 1,399,9
+1644,2022-06-09,4,Company D,Anna Weber,Texas,Product 1,399,6
+1645,2022-06-09,11,Company K,Michael Fox,New Mexico,Product 1,399,3
+1648,2022-06-10,1,Company A,Ben Wallace,Texas,Product 1,399,2
+1650,2022-06-11,9,Company I,Kim Fishman,California,Product 1,399,3
+1654,2022-06-13,3,Company C,Anna Weber,Texas,Product 1,399,5
+1657,2022-06-14,10,Company J,Laura Larsen,California,Product 1,399,8
+1658,2022-06-14,3,Company C,Anna Weber,Texas,Product 1,399,8
+1664,2022-06-15,13,Company M,Anne Lee,New Mexico,Product 1,399,7
+1667,2022-06-16,8,Company H,Laura Larsen,California,Product 1,399,2
+1674,2022-06-18,17,Company Q,Andrew James,Arizona,Product 1,399,3
+1688,2022-06-24,13,Company M,Michael Fox,New Mexico,Product 1,399,5
+1689,2022-06-25,16,Company P,Andrew James,Arizona,Product 1,399,6
+1690,2022-06-26,7,Company G,Laura Larsen,California,Product 1,399,4
+1694,2022-06-29,9,Company I,Kim Fishman,California,Product 1,399,5
+1701,2022-07-04,16,Company P,Andrew James,Arizona,Product 1,399,4
+1703,2022-07-05,5,Company E,Anna Weber,Texas,Product 1,399,7
+1710,2022-07-10,14,Company N,Michael Fox,New Mexico,Product 1,399,0
+1713,2022-07-11,19,Company S,Oscar Knox,Arizona,Product 1,399,9
+1716,2022-07-12,14,Company N,Michael Fox,New Mexico,Product 1,399,1
+1726,2022-07-14,10,Company J,Laura Larsen,California,Product 1,399,9
+1730,2022-07-15,18,Company R,Andrew James,Arizona,Product 1,399,5
+1731,2022-07-16,9,Company I,Laura Larsen,California,Product 1,399,0
+1732,2022-07-17,4,Company D,Anna Weber,Texas,Product 1,399,8
+1734,2022-07-18,5,Company E,Anna Weber,Texas,Product 1,399,2
+1735,2022-07-18,12,Company L,Anne Lee,New Mexico,Product 1,399,7
+1749,2022-07-23,2,Company B,Ben Wallace,Texas,Product 1,399,9
+1756,2022-07-25,2,Company B,Anna Weber,Texas,Product 1,399,9
+1766,2022-07-31,13,Company M,Michael Fox,New Mexico,Product 1,399,8
+1767,2022-07-31,6,Company F,Kim Fishman,California,Product 1,399,9
+1769,2022-08-02,6,Company F,Laura Larsen,California,Product 1,399,2
+1777,2022-08-06,7,Company G,Kim Fishman,California,Product 1,399,6
+1783,2022-08-08,5,Company E,Anna Weber,Texas,Product 1,399,1
+1786,2022-08-08,15,Company O,Michael Fox,New Mexico,Product 1,399,2
+1788,2022-08-09,11,Company K,Anne Lee,New Mexico,Product 1,399,5
+1791,2022-08-11,17,Company Q,Oscar Knox,Arizona,Product 1,399,8
+1792,2022-08-11,3,Company C,Anna Weber,Texas,Product 1,399,2
+1799,2022-08-12,15,Company O,Michael Fox,New Mexico,Product 1,399,4
+1801,2022-08-12,17,Company Q,Andrew James,Arizona,Product 1,399,1
+1803,2022-08-12,18,Company R,Oscar Knox,Arizona,Product 1,399,5
+1838,2022-08-22,20,Company T,Andrew James,Arizona,Product 1,399,9
+1849,2022-08-24,4,Company D,Anna Weber,Texas,Product 1,399,7
+1858,2022-08-30,17,Company Q,Andrew James,Arizona,Product 1,399,1
+1860,2022-08-30,14,Company N,Anne Lee,New Mexico,Product 1,399,4
+1861,2022-08-30,20,Company T,Oscar Knox,Arizona,Product 1,399,8
+1863,2022-08-31,11,Company K,Michael Fox,New Mexico,Product 1,399,5
+1865,2022-09-01,11,Company K,Anne Lee,New Mexico,Product 1,399,4
+1869,2022-09-03,7,Company G,Kim Fishman,California,Product 1,399,1
+1870,2022-09-04,19,Company S,Andrew James,Arizona,Product 1,399,9
+1877,2022-09-06,1,Company A,Anna Weber,Texas,Product 1,399,3
+1879,2022-09-06,4,Company D,Ben Wallace,Texas,Product 1,399,4
+1884,2022-09-08,13,Company M,Michael Fox,New Mexico,Product 1,399,4
+1887,2022-09-08,8,Company H,Laura Larsen,California,Product 1,399,1
+1892,2022-09-11,5,Company E,Anna Weber,Texas,Product 1,399,9
+1895,2022-09-12,15,Company O,Anne Lee,New Mexico,Product 1,399,1
+1901,2022-09-16,18,Company R,Andrew James,Arizona,Product 1,399,3
+1902,2022-09-16,14,Company N,Michael Fox,New Mexico,Product 1,399,8
+1903,2022-09-16,15,Company O,Anne Lee,New Mexico,Product 1,399,0
+1904,2022-09-17,15,Company O,Anne Lee,New Mexico,Product 1,399,2
+1911,2022-09-18,1,Company A,Ben Wallace,Texas,Product 1,399,6
+1916,2022-09-20,5,Company E,Anna Weber,Texas,Product 1,399,4
+1918,2022-09-20,1,Company A,Anna Weber,Texas,Product 1,399,1
+1921,2022-09-20,17,Company Q,Oscar Knox,Arizona,Product 1,399,1
+1922,2022-09-20,8,Company H,Kim Fishman,California,Product 1,399,3
+1928,2022-09-22,13,Company M,Anne Lee,New Mexico,Product 1,399,6
+1930,2022-09-23,4,Company D,Anna Weber,Texas,Product 1,399,7
+1931,2022-09-23,2,Company B,Anna Weber,Texas,Product 1,399,0
+1939,2022-09-27,13,Company M,Anne Lee,New Mexico,Product 1,399,6
+1949,2022-09-29,9,Company I,Kim Fishman,California,Product 1,399,4
+1954,2022-10-01,2,Company B,Anna Weber,Texas,Product 1,399,2
+1958,2022-10-03,8,Company H,Laura Larsen,California,Product 1,399,3
+1962,2022-10-04,20,Company T,Oscar Knox,Arizona,Product 1,399,3
+1966,2022-10-05,15,Company O,Michael Fox,New Mexico,Product 1,399,0
+1967,2022-10-05,20,Company T,Andrew James,Arizona,Product 1,399,9
+1970,2022-10-05,11,Company K,Anne Lee,New Mexico,Product 1,399,2
+1973,2022-10-05,12,Company L,Michael Fox,New Mexico,Product 1,399,6
+1983,2022-10-10,3,Company C,Ben Wallace,Texas,Product 1,399,1
+1985,2022-10-12,13,Company M,Michael Fox,New Mexico,Product 1,399,3
+1998,2022-10-16,3,Company C,Ben Wallace,Texas,Product 1,399,6
+2,2021-01-02,1,Company A,Anna Weber,Texas,Product 5,289,7
+4,2021-01-03,18,Company R,Oscar Knox,Arizona,Product 5,289,3
+7,2021-01-04,17,Company Q,Andrew James,Arizona,Product 5,289,9
+11,2021-01-05,8,Company H,Laura Larsen,California,Product 5,289,9
+17,2021-01-07,14,Company N,Michael Fox,New Mexico,Product 5,289,0
+22,2021-01-07,11,Company K,Anne Lee,New Mexico,Product 5,289,6
+26,2021-01-08,14,Company N,Michael Fox,New Mexico,Product 5,289,0
+30,2021-01-09,12,Company L,Anne Lee,New Mexico,Product 5,289,0
+36,2021-01-11,13,Company M,Anne Lee,New Mexico,Product 5,289,1
+40,2021-01-12,14,Company N,Michael Fox,New Mexico,Product 5,289,3
+45,2021-01-13,12,Company L,Anne Lee,New Mexico,Product 5,289,4
+47,2021-01-13,17,Company Q,Oscar Knox,Arizona,Product 5,289,0
+54,2021-01-15,8,Company H,Laura Larsen,California,Product 5,289,1
+63,2021-01-17,9,Company I,Laura Larsen,California,Product 5,289,7
+66,2021-01-19,10,Company J,Laura Larsen,California,Product 5,289,3
+74,2021-01-23,20,Company T,Oscar Knox,Arizona,Product 5,289,1
+75,2021-01-23,13,Company M,Michael Fox,New Mexico,Product 5,289,5
+78,2021-01-24,5,Company E,Ben Wallace,Texas,Product 5,289,1
+79,2021-01-24,19,Company S,Oscar Knox,Arizona,Product 5,289,8
+80,2021-01-24,10,Company J,Kim Fishman,California,Product 5,289,3
+91,2021-01-27,19,Company S,Andrew James,Arizona,Product 5,289,4
+118,2021-02-06,5,Company E,Anna Weber,Texas,Product 5,289,2
+123,2021-02-08,2,Company B,Anna Weber,Texas,Product 5,289,6
+124,2021-02-08,4,Company D,Ben Wallace,Texas,Product 5,289,7
+142,2021-02-13,10,Company J,Kim Fishman,California,Product 5,289,4
+143,2021-02-13,7,Company G,Laura Larsen,California,Product 5,289,5
+149,2021-02-13,12,Company L,Anne Lee,New Mexico,Product 5,289,8
+153,2021-02-13,2,Company B,Ben Wallace,Texas,Product 5,289,2
+157,2021-02-16,13,Company M,Michael Fox,New Mexico,Product 5,289,3
+163,2021-02-16,19,Company S,Oscar Knox,Arizona,Product 5,289,7
+175,2021-02-20,11,Company K,Michael Fox,New Mexico,Product 5,289,5
+177,2021-02-21,8,Company H,Laura Larsen,California,Product 5,289,1
+179,2021-02-21,1,Company A,Anna Weber,Texas,Product 5,289,2
+186,2021-02-23,5,Company E,Ben Wallace,Texas,Product 5,289,4
+196,2021-02-28,6,Company F,Laura Larsen,California,Product 5,289,9
+201,2021-03-04,18,Company R,Oscar Knox,Arizona,Product 5,289,5
+203,2021-03-06,12,Company L,Michael Fox,New Mexico,Product 5,289,7
+217,2021-03-11,12,Company L,Anne Lee,New Mexico,Product 5,289,4
+228,2021-03-14,1,Company A,Ben Wallace,Texas,Product 5,289,2
+229,2021-03-14,17,Company Q,Oscar Knox,Arizona,Product 5,289,8
+235,2021-03-16,2,Company B,Anna Weber,Texas,Product 5,289,3
+242,2021-03-17,2,Company B,Anna Weber,Texas,Product 5,289,0
+246,2021-03-18,20,Company T,Oscar Knox,Arizona,Product 5,289,4
+247,2021-03-18,6,Company F,Kim Fishman,California,Product 5,289,2
+259,2021-03-20,16,Company P,Oscar Knox,Arizona,Product 5,289,1
+265,2021-03-24,17,Company Q,Oscar Knox,Arizona,Product 5,289,7
+272,2021-03-25,15,Company O,Anne Lee,New Mexico,Product 5,289,7
+275,2021-03-25,7,Company G,Laura Larsen,California,Product 5,289,0
+277,2021-03-26,16,Company P,Oscar Knox,Arizona,Product 5,289,3
+285,2021-03-27,11,Company K,Michael Fox,New Mexico,Product 5,289,3
+287,2021-03-27,4,Company D,Anna Weber,Texas,Product 5,289,7
+289,2021-03-28,20,Company T,Andrew James,Arizona,Product 5,289,1
+305,2021-04-05,8,Company H,Laura Larsen,California,Product 5,289,9
+309,2021-04-06,15,Company O,Michael Fox,New Mexico,Product 5,289,8
+311,2021-04-07,19,Company S,Oscar Knox,Arizona,Product 5,289,5
+322,2021-04-13,2,Company B,Anna Weber,Texas,Product 5,289,8
+323,2021-04-13,19,Company S,Oscar Knox,Arizona,Product 5,289,3
+329,2021-04-14,14,Company N,Michael Fox,New Mexico,Product 5,289,4
+334,2021-04-15,4,Company D,Ben Wallace,Texas,Product 5,289,6
+341,2021-04-19,1,Company A,Anna Weber,Texas,Product 5,289,3
+348,2021-04-19,19,Company S,Oscar Knox,Arizona,Product 5,289,1
+365,2021-04-23,7,Company G,Kim Fishman,California,Product 5,289,9
+367,2021-04-24,7,Company G,Kim Fishman,California,Product 5,289,2
+368,2021-04-24,8,Company H,Kim Fishman,California,Product 5,289,6
+372,2021-04-24,7,Company G,Kim Fishman,California,Product 5,289,8
+385,2021-04-28,17,Company Q,Andrew James,Arizona,Product 5,289,3
+389,2021-04-28,13,Company M,Anne Lee,New Mexico,Product 5,289,3
+390,2021-04-28,1,Company A,Ben Wallace,Texas,Product 5,289,4
+392,2021-04-29,8,Company H,Kim Fishman,California,Product 5,289,0
+397,2021-05-02,19,Company S,Andrew James,Arizona,Product 5,289,1
+400,2021-05-03,19,Company S,Oscar Knox,Arizona,Product 5,289,6
+402,2021-05-05,16,Company P,Andrew James,Arizona,Product 5,289,8
+408,2021-05-06,4,Company D,Ben Wallace,Texas,Product 5,289,6
+425,2021-05-12,1,Company A,Ben Wallace,Texas,Product 5,289,7
+430,2021-05-15,16,Company P,Andrew James,Arizona,Product 5,289,7
+431,2021-05-15,4,Company D,Ben Wallace,Texas,Product 5,289,6
+433,2021-05-15,3,Company C,Anna Weber,Texas,Product 5,289,0
+434,2021-05-15,9,Company I,Kim Fishman,California,Product 5,289,5
+435,2021-05-15,8,Company H,Laura Larsen,California,Product 5,289,5
+449,2021-05-16,10,Company J,Kim Fishman,California,Product 5,289,6
+450,2021-05-16,5,Company E,Ben Wallace,Texas,Product 5,289,8
+464,2021-05-19,4,Company D,Ben Wallace,Texas,Product 5,289,2
+469,2021-05-20,2,Company B,Anna Weber,Texas,Product 5,289,1
+471,2021-05-21,5,Company E,Ben Wallace,Texas,Product 5,289,4
+473,2021-05-23,13,Company M,Michael Fox,New Mexico,Product 5,289,8
+477,2021-05-23,7,Company G,Kim Fishman,California,Product 5,289,5
+481,2021-05-24,17,Company Q,Oscar Knox,Arizona,Product 5,289,3
+487,2021-05-25,4,Company D,Ben Wallace,Texas,Product 5,289,4
+492,2021-05-25,3,Company C,Anna Weber,Texas,Product 5,289,6
+496,2021-05-26,9,Company I,Kim Fishman,California,Product 5,289,6
+497,2021-05-26,4,Company D,Ben Wallace,Texas,Product 5,289,1
+500,2021-05-26,4,Company D,Anna Weber,Texas,Product 5,289,6
+503,2021-05-27,10,Company J,Laura Larsen,California,Product 5,289,8
+511,2021-05-30,19,Company S,Oscar Knox,Arizona,Product 5,289,9
+515,2021-06-01,8,Company H,Laura Larsen,California,Product 5,289,4
+516,2021-06-01,4,Company D,Ben Wallace,Texas,Product 5,289,3
+517,2021-06-02,19,Company S,Oscar Knox,Arizona,Product 5,289,4
+521,2021-06-03,5,Company E,Ben Wallace,Texas,Product 5,289,3
+523,2021-06-03,18,Company R,Oscar Knox,Arizona,Product 5,289,7
+526,2021-06-03,20,Company T,Andrew James,Arizona,Product 5,289,7
+527,2021-06-03,1,Company A,Ben Wallace,Texas,Product 5,289,7
+528,2021-06-03,4,Company D,Anna Weber,Texas,Product 5,289,9
+541,2021-06-08,9,Company I,Laura Larsen,California,Product 5,289,9
+544,2021-06-09,9,Company I,Laura Larsen,California,Product 5,289,6
+552,2021-06-11,2,Company B,Ben Wallace,Texas,Product 5,289,5
+559,2021-06-13,2,Company B,Ben Wallace,Texas,Product 5,289,2
+560,2021-06-13,15,Company O,Anne Lee,New Mexico,Product 5,289,5
+561,2021-06-14,13,Company M,Michael Fox,New Mexico,Product 5,289,3
+562,2021-06-15,17,Company Q,Andrew James,Arizona,Product 5,289,6
+570,2021-06-18,3,Company C,Ben Wallace,Texas,Product 5,289,3
+571,2021-06-18,3,Company C,Ben Wallace,Texas,Product 5,289,1
+586,2021-06-22,4,Company D,Anna Weber,Texas,Product 5,289,5
+591,2021-06-25,4,Company D,Ben Wallace,Texas,Product 5,289,3
+592,2021-06-26,6,Company F,Laura Larsen,California,Product 5,289,9
+594,2021-06-26,2,Company B,Ben Wallace,Texas,Product 5,289,1
+600,2021-06-28,5,Company E,Anna Weber,Texas,Product 5,289,0
+603,2021-06-28,11,Company K,Michael Fox,New Mexico,Product 5,289,7
+604,2021-06-28,1,Company A,Ben Wallace,Texas,Product 5,289,8
+606,2021-06-30,12,Company L,Michael Fox,New Mexico,Product 5,289,3
+611,2021-07-01,10,Company J,Laura Larsen,California,Product 5,289,9
+612,2021-07-01,17,Company Q,Oscar Knox,Arizona,Product 5,289,9
+614,2021-07-03,20,Company T,Andrew James,Arizona,Product 5,289,0
+619,2021-07-07,17,Company Q,Andrew James,Arizona,Product 5,289,6
+626,2021-07-08,1,Company A,Anna Weber,Texas,Product 5,289,0
+640,2021-07-14,20,Company T,Andrew James,Arizona,Product 5,289,4
+647,2021-07-16,13,Company M,Michael Fox,New Mexico,Product 5,289,3
+650,2021-07-17,13,Company M,Anne Lee,New Mexico,Product 5,289,3
+655,2021-07-18,2,Company B,Anna Weber,Texas,Product 5,289,2
+660,2021-07-19,1,Company A,Anna Weber,Texas,Product 5,289,4
+674,2021-07-26,18,Company R,Andrew James,Arizona,Product 5,289,8
+682,2021-07-27,18,Company R,Oscar Knox,Arizona,Product 5,289,3
+683,2021-07-27,16,Company P,Andrew James,Arizona,Product 5,289,6
+691,2021-07-27,19,Company S,Oscar Knox,Arizona,Product 5,289,2
+692,2021-07-27,7,Company G,Laura Larsen,California,Product 5,289,4
+695,2021-07-28,12,Company L,Anne Lee,New Mexico,Product 5,289,7
+698,2021-07-30,8,Company H,Laura Larsen,California,Product 5,289,9
+700,2021-08-01,20,Company T,Andrew James,Arizona,Product 5,289,0
+701,2021-08-02,15,Company O,Michael Fox,New Mexico,Product 5,289,2
+703,2021-08-03,19,Company S,Andrew James,Arizona,Product 5,289,9
+704,2021-08-03,15,Company O,Michael Fox,New Mexico,Product 5,289,6
+705,2021-08-03,14,Company N,Michael Fox,New Mexico,Product 5,289,0
+708,2021-08-03,1,Company A,Anna Weber,Texas,Product 5,289,4
+710,2021-08-03,13,Company M,Michael Fox,New Mexico,Product 5,289,8
+714,2021-08-05,4,Company D,Anna Weber,Texas,Product 5,289,6
+720,2021-08-07,9,Company I,Laura Larsen,California,Product 5,289,9
+724,2021-08-08,7,Company G,Laura Larsen,California,Product 5,289,5
+725,2021-08-08,8,Company H,Kim Fishman,California,Product 5,289,2
+726,2021-08-08,8,Company H,Laura Larsen,California,Product 5,289,1
+728,2021-08-09,10,Company J,Kim Fishman,California,Product 5,289,7
+732,2021-08-10,1,Company A,Ben Wallace,Texas,Product 5,289,6
+734,2021-08-10,3,Company C,Anna Weber,Texas,Product 5,289,2
+741,2021-08-14,1,Company A,Ben Wallace,Texas,Product 5,289,7
+742,2021-08-14,18,Company R,Andrew James,Arizona,Product 5,289,0
+749,2021-08-18,11,Company K,Anne Lee,New Mexico,Product 5,289,3
+751,2021-08-18,10,Company J,Kim Fishman,California,Product 5,289,5
+757,2021-08-20,13,Company M,Anne Lee,New Mexico,Product 5,289,0
+759,2021-08-20,3,Company C,Ben Wallace,Texas,Product 5,289,1
+762,2021-08-21,16,Company P,Andrew James,Arizona,Product 5,289,2
+771,2021-08-26,4,Company D,Anna Weber,Texas,Product 5,289,2
+772,2021-08-26,6,Company F,Laura Larsen,California,Product 5,289,3
+778,2021-08-27,2,Company B,Anna Weber,Texas,Product 5,289,5
+779,2021-08-27,14,Company N,Anne Lee,New Mexico,Product 5,289,6
+786,2021-08-29,4,Company D,Ben Wallace,Texas,Product 5,289,6
+796,2021-09-01,18,Company R,Andrew James,Arizona,Product 5,289,4
+801,2021-09-03,10,Company J,Laura Larsen,California,Product 5,289,7
+819,2021-09-09,6,Company F,Kim Fishman,California,Product 5,289,0
+824,2021-09-10,8,Company H,Kim Fishman,California,Product 5,289,0
+826,2021-09-11,15,Company O,Anne Lee,New Mexico,Product 5,289,1
+832,2021-09-14,3,Company C,Ben Wallace,Texas,Product 5,289,1
+839,2021-09-19,20,Company T,Andrew James,Arizona,Product 5,289,4
+841,2021-09-20,7,Company G,Kim Fishman,California,Product 5,289,2
+844,2021-09-21,11,Company K,Michael Fox,New Mexico,Product 5,289,6
+848,2021-09-22,15,Company O,Michael Fox,New Mexico,Product 5,289,3
+850,2021-09-22,10,Company J,Laura Larsen,California,Product 5,289,0
+851,2021-09-22,17,Company Q,Oscar Knox,Arizona,Product 5,289,0
+855,2021-09-22,9,Company I,Kim Fishman,California,Product 5,289,7
+857,2021-09-23,19,Company S,Oscar Knox,Arizona,Product 5,289,8
+859,2021-09-24,19,Company S,Andrew James,Arizona,Product 5,289,4
+864,2021-09-25,3,Company C,Ben Wallace,Texas,Product 5,289,4
+874,2021-09-29,3,Company C,Ben Wallace,Texas,Product 5,289,8
+876,2021-09-29,7,Company G,Laura Larsen,California,Product 5,289,0
+877,2021-09-30,11,Company K,Michael Fox,New Mexico,Product 5,289,1
+884,2021-10-02,14,Company N,Anne Lee,New Mexico,Product 5,289,9
+887,2021-10-04,20,Company T,Andrew James,Arizona,Product 5,289,1
+890,2021-10-05,9,Company I,Laura Larsen,California,Product 5,289,9
+903,2021-10-10,6,Company F,Kim Fishman,California,Product 5,289,3
+904,2021-10-10,5,Company E,Anna Weber,Texas,Product 5,289,1
+905,2021-10-11,13,Company M,Michael Fox,New Mexico,Product 5,289,7
+908,2021-10-12,20,Company T,Oscar Knox,Arizona,Product 5,289,3
+912,2021-10-13,13,Company M,Michael Fox,New Mexico,Product 5,289,8
+916,2021-10-14,10,Company J,Laura Larsen,California,Product 5,289,5
+922,2021-10-16,1,Company A,Anna Weber,Texas,Product 5,289,7
+924,2021-10-16,11,Company K,Michael Fox,New Mexico,Product 5,289,9
+935,2021-10-20,18,Company R,Oscar Knox,Arizona,Product 5,289,5
+939,2021-10-22,1,Company A,Ben Wallace,Texas,Product 5,289,7
+957,2021-10-29,17,Company Q,Andrew James,Arizona,Product 5,289,9
+980,2021-11-07,9,Company I,Laura Larsen,California,Product 5,289,9
+990,2021-11-09,16,Company P,Andrew James,Arizona,Product 5,289,4
+1001,2021-11-15,15,Company O,Michael Fox,New Mexico,Product 5,289,7
+1008,2021-11-16,15,Company O,Michael Fox,New Mexico,Product 5,289,1
+1011,2021-11-17,7,Company G,Laura Larsen,California,Product 5,289,0
+1012,2021-11-17,3,Company C,Ben Wallace,Texas,Product 5,289,4
+1016,2021-11-19,6,Company F,Kim Fishman,California,Product 5,289,5
+1037,2021-11-23,12,Company L,Michael Fox,New Mexico,Product 5,289,6
+1039,2021-11-24,13,Company M,Anne Lee,New Mexico,Product 5,289,1
+1042,2021-11-24,14,Company N,Anne Lee,New Mexico,Product 5,289,2
+1047,2021-11-26,6,Company F,Laura Larsen,California,Product 5,289,1
+1048,2021-11-26,13,Company M,Anne Lee,New Mexico,Product 5,289,7
+1055,2021-11-28,11,Company K,Michael Fox,New Mexico,Product 5,289,8
+1056,2021-11-28,4,Company D,Anna Weber,Texas,Product 5,289,7
+1059,2021-11-29,12,Company L,Anne Lee,New Mexico,Product 5,289,9
+1062,2021-12-01,17,Company Q,Andrew James,Arizona,Product 5,289,0
+1064,2021-12-03,1,Company A,Ben Wallace,Texas,Product 5,289,4
+1065,2021-12-03,19,Company S,Oscar Knox,Arizona,Product 5,289,2
+1073,2021-12-07,9,Company I,Kim Fishman,California,Product 5,289,7
+1076,2021-12-09,20,Company T,Oscar Knox,Arizona,Product 5,289,8
+1077,2021-12-10,11,Company K,Michael Fox,New Mexico,Product 5,289,9
+1078,2021-12-11,13,Company M,Michael Fox,New Mexico,Product 5,289,8
+1080,2021-12-11,19,Company S,Oscar Knox,Arizona,Product 5,289,9
+1081,2021-12-12,14,Company N,Michael Fox,New Mexico,Product 5,289,5
+1083,2021-12-13,13,Company M,Michael Fox,New Mexico,Product 5,289,5
+1090,2021-12-14,18,Company R,Oscar Knox,Arizona,Product 5,289,9
+1091,2021-12-15,15,Company O,Anne Lee,New Mexico,Product 5,289,9
+1092,2021-12-15,8,Company H,Kim Fishman,California,Product 5,289,2
+1095,2021-12-16,20,Company T,Andrew James,Arizona,Product 5,289,3
+1106,2021-12-18,20,Company T,Oscar Knox,Arizona,Product 5,289,4
+1117,2021-12-20,9,Company I,Kim Fishman,California,Product 5,289,5
+1126,2021-12-23,11,Company K,Michael Fox,New Mexico,Product 5,289,9
+1135,2021-12-25,5,Company E,Anna Weber,Texas,Product 5,289,4
+1137,2021-12-25,3,Company C,Ben Wallace,Texas,Product 5,289,6
+1139,2021-12-26,11,Company K,Michael Fox,New Mexico,Product 5,289,2
+1151,2022-01-03,1,Company A,Ben Wallace,Texas,Product 5,289,4
+1156,2022-01-05,15,Company O,Anne Lee,New Mexico,Product 5,289,0
+1161,2022-01-06,10,Company J,Laura Larsen,California,Product 5,289,3
+1166,2022-01-07,13,Company M,Anne Lee,New Mexico,Product 5,289,9
+1182,2022-01-13,15,Company O,Anne Lee,New Mexico,Product 5,289,2
+1194,2022-01-14,12,Company L,Anne Lee,New Mexico,Product 5,289,7
+1196,2022-01-15,16,Company P,Andrew James,Arizona,Product 5,289,9
+1202,2022-01-17,18,Company R,Andrew James,Arizona,Product 5,289,2
+1205,2022-01-17,7,Company G,Kim Fishman,California,Product 5,289,5
+1214,2022-01-21,8,Company H,Laura Larsen,California,Product 5,289,4
+1219,2022-01-22,2,Company B,Ben Wallace,Texas,Product 5,289,5
+1220,2022-01-22,7,Company G,Kim Fishman,California,Product 5,289,7
+1228,2022-01-27,17,Company Q,Oscar Knox,Arizona,Product 5,289,2
+1235,2022-01-29,9,Company I,Laura Larsen,California,Product 5,289,1
+1238,2022-02-01,13,Company M,Anne Lee,New Mexico,Product 5,289,9
+1239,2022-02-02,8,Company H,Kim Fishman,California,Product 5,289,3
+1242,2022-02-04,9,Company I,Laura Larsen,California,Product 5,289,0
+1243,2022-02-05,16,Company P,Andrew James,Arizona,Product 5,289,9
+1244,2022-02-05,16,Company P,Oscar Knox,Arizona,Product 5,289,9
+1246,2022-02-05,3,Company C,Ben Wallace,Texas,Product 5,289,9
+1252,2022-02-06,9,Company I,Kim Fishman,California,Product 5,289,4
+1270,2022-02-15,1,Company A,Ben Wallace,Texas,Product 5,289,7
+1272,2022-02-17,11,Company K,Anne Lee,New Mexico,Product 5,289,4
+1274,2022-02-18,5,Company E,Ben Wallace,Texas,Product 5,289,0
+1280,2022-02-19,3,Company C,Anna Weber,Texas,Product 5,289,7
+1286,2022-02-19,3,Company C,Anna Weber,Texas,Product 5,289,7
+1290,2022-02-19,14,Company N,Anne Lee,New Mexico,Product 5,289,9
+1291,2022-02-20,8,Company H,Laura Larsen,California,Product 5,289,5
+1294,2022-02-21,8,Company H,Laura Larsen,California,Product 5,289,1
+1296,2022-02-22,20,Company T,Oscar Knox,Arizona,Product 5,289,0
+1297,2022-02-22,13,Company M,Michael Fox,New Mexico,Product 5,289,7
+1300,2022-02-22,16,Company P,Oscar Knox,Arizona,Product 5,289,3
+1302,2022-02-22,20,Company T,Andrew James,Arizona,Product 5,289,0
+1303,2022-02-22,3,Company C,Anna Weber,Texas,Product 5,289,7
+1310,2022-02-24,8,Company H,Laura Larsen,California,Product 5,289,0
+1317,2022-02-26,3,Company C,Anna Weber,Texas,Product 5,289,3
+1323,2022-02-28,12,Company L,Michael Fox,New Mexico,Product 5,289,1
+1329,2022-03-02,19,Company S,Andrew James,Arizona,Product 5,289,7
+1331,2022-03-03,5,Company E,Ben Wallace,Texas,Product 5,289,5
+1332,2022-03-04,2,Company B,Anna Weber,Texas,Product 5,289,0
+1351,2022-03-10,8,Company H,Laura Larsen,California,Product 5,289,9
+1355,2022-03-11,16,Company P,Oscar Knox,Arizona,Product 5,289,6
+1357,2022-03-11,4,Company D,Anna Weber,Texas,Product 5,289,6
+1359,2022-03-11,4,Company D,Anna Weber,Texas,Product 5,289,2
+1361,2022-03-11,3,Company C,Anna Weber,Texas,Product 5,289,5
+1379,2022-03-17,14,Company N,Michael Fox,New Mexico,Product 5,289,6
+1394,2022-03-20,1,Company A,Ben Wallace,Texas,Product 5,289,3
+1398,2022-03-23,17,Company Q,Oscar Knox,Arizona,Product 5,289,2
+1401,2022-03-23,15,Company O,Anne Lee,New Mexico,Product 5,289,6
+1404,2022-03-23,5,Company E,Anna Weber,Texas,Product 5,289,6
+1410,2022-03-25,12,Company L,Anne Lee,New Mexico,Product 5,289,6
+1412,2022-03-26,19,Company S,Andrew James,Arizona,Product 5,289,3
+1414,2022-03-27,6,Company F,Laura Larsen,California,Product 5,289,7
+1416,2022-03-27,13,Company M,Anne Lee,New Mexico,Product 5,289,9
+1418,2022-03-28,1,Company A,Ben Wallace,Texas,Product 5,289,9
+1424,2022-03-31,19,Company S,Andrew James,Arizona,Product 5,289,8
+1435,2022-04-04,19,Company S,Oscar Knox,Arizona,Product 5,289,2
+1443,2022-04-05,15,Company O,Anne Lee,New Mexico,Product 5,289,8
+1444,2022-04-06,3,Company C,Anna Weber,Texas,Product 5,289,2
+1454,2022-04-09,7,Company G,Laura Larsen,California,Product 5,289,3
+1462,2022-04-12,19,Company S,Andrew James,Arizona,Product 5,289,3
+1464,2022-04-12,5,Company E,Ben Wallace,Texas,Product 5,289,5
+1473,2022-04-18,12,Company L,Michael Fox,New Mexico,Product 5,289,5
+1485,2022-04-21,6,Company F,Laura Larsen,California,Product 5,289,5
+1494,2022-04-24,3,Company C,Ben Wallace,Texas,Product 5,289,6
+1498,2022-04-26,1,Company A,Ben Wallace,Texas,Product 5,289,4
+1500,2022-04-27,18,Company R,Andrew James,Arizona,Product 5,289,8
+1503,2022-04-30,6,Company F,Laura Larsen,California,Product 5,289,7
+1505,2022-04-30,9,Company I,Kim Fishman,California,Product 5,289,6
+1507,2022-05-01,1,Company A,Ben Wallace,Texas,Product 5,289,6
+1509,2022-05-02,17,Company Q,Oscar Knox,Arizona,Product 5,289,7
+1512,2022-05-03,12,Company L,Anne Lee,New Mexico,Product 5,289,1
+1526,2022-05-07,4,Company D,Ben Wallace,Texas,Product 5,289,5
+1532,2022-05-09,11,Company K,Anne Lee,New Mexico,Product 5,289,1
+1541,2022-05-12,3,Company C,Anna Weber,Texas,Product 5,289,9
+1549,2022-05-16,3,Company C,Anna Weber,Texas,Product 5,289,4
+1552,2022-05-17,1,Company A,Anna Weber,Texas,Product 5,289,9
+1553,2022-05-17,10,Company J,Laura Larsen,California,Product 5,289,2
+1555,2022-05-17,14,Company N,Michael Fox,New Mexico,Product 5,289,6
+1561,2022-05-19,1,Company A,Anna Weber,Texas,Product 5,289,1
+1565,2022-05-20,7,Company G,Kim Fishman,California,Product 5,289,8
+1566,2022-05-21,5,Company E,Anna Weber,Texas,Product 5,289,2
+1568,2022-05-22,10,Company J,Kim Fishman,California,Product 5,289,7
+1574,2022-05-25,17,Company Q,Oscar Knox,Arizona,Product 5,289,3
+1582,2022-05-25,16,Company P,Oscar Knox,Arizona,Product 5,289,1
+1583,2022-05-25,1,Company A,Ben Wallace,Texas,Product 5,289,9
+1586,2022-05-26,4,Company D,Anna Weber,Texas,Product 5,289,2
+1593,2022-05-26,16,Company P,Andrew James,Arizona,Product 5,289,9
+1607,2022-05-30,5,Company E,Anna Weber,Texas,Product 5,289,3
+1613,2022-06-01,17,Company Q,Andrew James,Arizona,Product 5,289,0
+1614,2022-06-02,8,Company H,Laura Larsen,California,Product 5,289,4
+1622,2022-06-05,11,Company K,Michael Fox,New Mexico,Product 5,289,2
+1624,2022-06-06,6,Company F,Laura Larsen,California,Product 5,289,1
+1635,2022-06-06,3,Company C,Anna Weber,Texas,Product 5,289,9
+1656,2022-06-14,16,Company P,Andrew James,Arizona,Product 5,289,9
+1660,2022-06-15,13,Company M,Michael Fox,New Mexico,Product 5,289,4
+1663,2022-06-15,2,Company B,Anna Weber,Texas,Product 5,289,5
+1670,2022-06-17,1,Company A,Anna Weber,Texas,Product 5,289,5
+1671,2022-06-17,17,Company Q,Andrew James,Arizona,Product 5,289,1
+1691,2022-06-26,2,Company B,Ben Wallace,Texas,Product 5,289,7
+1693,2022-06-28,20,Company T,Andrew James,Arizona,Product 5,289,8
+1700,2022-07-03,12,Company L,Michael Fox,New Mexico,Product 5,289,5
+1719,2022-07-12,5,Company E,Ben Wallace,Texas,Product 5,289,0
+1720,2022-07-12,1,Company A,Ben Wallace,Texas,Product 5,289,3
+1725,2022-07-14,4,Company D,Anna Weber,Texas,Product 5,289,8
+1736,2022-07-18,7,Company G,Laura Larsen,California,Product 5,289,7
+1741,2022-07-20,17,Company Q,Oscar Knox,Arizona,Product 5,289,2
+1742,2022-07-21,14,Company N,Anne Lee,New Mexico,Product 5,289,9
+1752,2022-07-25,6,Company F,Kim Fishman,California,Product 5,289,7
+1755,2022-07-25,15,Company O,Anne Lee,New Mexico,Product 5,289,4
+1757,2022-07-25,4,Company D,Anna Weber,Texas,Product 5,289,2
+1776,2022-08-05,2,Company B,Anna Weber,Texas,Product 5,289,8
+1780,2022-08-07,18,Company R,Andrew James,Arizona,Product 5,289,0
+1781,2022-08-07,19,Company S,Oscar Knox,Arizona,Product 5,289,8
+1787,2022-08-09,15,Company O,Anne Lee,New Mexico,Product 5,289,8
+1796,2022-08-12,2,Company B,Ben Wallace,Texas,Product 5,289,5
+1798,2022-08-12,13,Company M,Anne Lee,New Mexico,Product 5,289,4
+1810,2022-08-14,3,Company C,Ben Wallace,Texas,Product 5,289,3
+1822,2022-08-18,17,Company Q,Oscar Knox,Arizona,Product 5,289,7
+1826,2022-08-19,18,Company R,Andrew James,Arizona,Product 5,289,4
+1827,2022-08-19,2,Company B,Anna Weber,Texas,Product 5,289,2
+1830,2022-08-20,5,Company E,Anna Weber,Texas,Product 5,289,2
+1835,2022-08-21,5,Company E,Ben Wallace,Texas,Product 5,289,3
+1839,2022-08-22,19,Company S,Oscar Knox,Arizona,Product 5,289,5
+1862,2022-08-30,10,Company J,Kim Fishman,California,Product 5,289,3
+1864,2022-09-01,16,Company P,Oscar Knox,Arizona,Product 5,289,3
+1867,2022-09-02,3,Company C,Anna Weber,Texas,Product 5,289,6
+1874,2022-09-06,9,Company I,Kim Fishman,California,Product 5,289,2
+1886,2022-09-08,10,Company J,Laura Larsen,California,Product 5,289,2
+1896,2022-09-12,20,Company T,Andrew James,Arizona,Product 5,289,0
+1912,2022-09-19,6,Company F,Kim Fishman,California,Product 5,289,7
+1917,2022-09-20,4,Company D,Anna Weber,Texas,Product 5,289,8
+1925,2022-09-21,19,Company S,Oscar Knox,Arizona,Product 5,289,1
+1927,2022-09-22,6,Company F,Laura Larsen,California,Product 5,289,2
+1934,2022-09-25,6,Company F,Laura Larsen,California,Product 5,289,8
+1935,2022-09-25,12,Company L,Michael Fox,New Mexico,Product 5,289,5
+1936,2022-09-26,17,Company Q,Andrew James,Arizona,Product 5,289,6
+1937,2022-09-27,15,Company O,Michael Fox,New Mexico,Product 5,289,2
+1938,2022-09-27,13,Company M,Anne Lee,New Mexico,Product 5,289,5
+1945,2022-09-29,19,Company S,Oscar Knox,Arizona,Product 5,289,0
+1948,2022-09-29,1,Company A,Anna Weber,Texas,Product 5,289,8
+1952,2022-10-01,8,Company H,Kim Fishman,California,Product 5,289,5
+1957,2022-10-02,17,Company Q,Oscar Knox,Arizona,Product 5,289,6
+1961,2022-10-04,9,Company I,Kim Fishman,California,Product 5,289,8
+1963,2022-10-05,20,Company T,Andrew James,Arizona,Product 5,289,1
+1964,2022-10-05,4,Company D,Anna Weber,Texas,Product 5,289,3
+1974,2022-10-06,19,Company S,Oscar Knox,Arizona,Product 5,289,1
+1981,2022-10-09,12,Company L,Michael Fox,New Mexico,Product 5,289,0
+1987,2022-10-13,9,Company I,Kim Fishman,California,Product 5,289,0
+1989,2022-10-13,12,Company L,Anne Lee,New Mexico,Product 5,289,3
+1999,2022-10-16,6,Company F,Laura Larsen,California,Product 5,289,1
+1,2021-01-01,11,Company K,Michael Fox,New Mexico,Product 2,199,3
+6,2021-01-04,13,Company M,Michael Fox,New Mexico,Product 2,199,2
+8,2021-01-05,14,Company N,Michael Fox,New Mexico,Product 2,199,5
+10,2021-01-05,3,Company C,Anna Weber,Texas,Product 2,199,0
+13,2021-01-05,9,Company I,Kim Fishman,California,Product 2,199,6
+15,2021-01-05,6,Company F,Kim Fishman,California,Product 2,199,2
+27,2021-01-08,14,Company N,Anne Lee,New Mexico,Product 2,199,1
+29,2021-01-09,10,Company J,Laura Larsen,California,Product 2,199,3
+34,2021-01-11,1,Company A,Ben Wallace,Texas,Product 2,199,8
+35,2021-01-11,16,Company P,Andrew James,Arizona,Product 2,199,5
+57,2021-01-15,8,Company H,Laura Larsen,California,Product 2,199,5
+60,2021-01-15,10,Company J,Laura Larsen,California,Product 2,199,3
+65,2021-01-19,9,Company I,Laura Larsen,California,Product 2,199,6
+68,2021-01-20,13,Company M,Anne Lee,New Mexico,Product 2,199,8
+69,2021-01-21,19,Company S,Andrew James,Arizona,Product 2,199,8
+70,2021-01-21,6,Company F,Laura Larsen,California,Product 2,199,0
+89,2021-01-27,8,Company H,Kim Fishman,California,Product 2,199,5
+94,2021-01-29,8,Company H,Kim Fishman,California,Product 2,199,2
+99,2021-01-30,8,Company H,Laura Larsen,California,Product 2,199,9
+100,2021-01-30,12,Company L,Michael Fox,New Mexico,Product 2,199,5
+110,2021-02-03,16,Company P,Oscar Knox,Arizona,Product 2,199,6
+119,2021-02-06,5,Company E,Anna Weber,Texas,Product 2,199,2
+121,2021-02-07,15,Company O,Michael Fox,New Mexico,Product 2,199,3
+128,2021-02-09,11,Company K,Anne Lee,New Mexico,Product 2,199,0
+129,2021-02-10,6,Company F,Kim Fishman,California,Product 2,199,8
+130,2021-02-11,16,Company P,Oscar Knox,Arizona,Product 2,199,0
+136,2021-02-13,6,Company F,Laura Larsen,California,Product 2,199,9
+145,2021-02-13,6,Company F,Kim Fishman,California,Product 2,199,6
+146,2021-02-13,8,Company H,Laura Larsen,California,Product 2,199,2
+150,2021-02-13,8,Company H,Laura Larsen,California,Product 2,199,1
+151,2021-02-13,20,Company T,Oscar Knox,Arizona,Product 2,199,8
+155,2021-02-15,15,Company O,Michael Fox,New Mexico,Product 2,199,9
+158,2021-02-16,11,Company K,Anne Lee,New Mexico,Product 2,199,4
+160,2021-02-16,1,Company A,Anna Weber,Texas,Product 2,199,9
+161,2021-02-16,8,Company H,Laura Larsen,California,Product 2,199,2
+176,2021-02-21,13,Company M,Anne Lee,New Mexico,Product 2,199,6
+183,2021-02-22,10,Company J,Kim Fishman,California,Product 2,199,2
+188,2021-02-24,17,Company Q,Andrew James,Arizona,Product 2,199,6
+190,2021-02-25,5,Company E,Anna Weber,Texas,Product 2,199,5
+194,2021-02-27,4,Company D,Anna Weber,Texas,Product 2,199,0
+200,2021-03-03,12,Company L,Anne Lee,New Mexico,Product 2,199,4
+202,2021-03-05,9,Company I,Kim Fishman,California,Product 2,199,0
+204,2021-03-07,2,Company B,Anna Weber,Texas,Product 2,199,2
+205,2021-03-08,19,Company S,Andrew James,Arizona,Product 2,199,5
+207,2021-03-08,18,Company R,Oscar Knox,Arizona,Product 2,199,6
+208,2021-03-08,6,Company F,Kim Fishman,California,Product 2,199,9
+212,2021-03-08,2,Company B,Anna Weber,Texas,Product 2,199,0
+215,2021-03-11,3,Company C,Anna Weber,Texas,Product 2,199,3
+222,2021-03-11,4,Company D,Anna Weber,Texas,Product 2,199,8
+231,2021-03-15,19,Company S,Oscar Knox,Arizona,Product 2,199,6
+234,2021-03-16,15,Company O,Anne Lee,New Mexico,Product 2,199,2
+238,2021-03-16,7,Company G,Kim Fishman,California,Product 2,199,3
+240,2021-03-16,18,Company R,Andrew James,Arizona,Product 2,199,5
+243,2021-03-17,20,Company T,Oscar Knox,Arizona,Product 2,199,4
+252,2021-03-18,14,Company N,Michael Fox,New Mexico,Product 2,199,2
+255,2021-03-19,5,Company E,Ben Wallace,Texas,Product 2,199,9
+261,2021-03-21,4,Company D,Anna Weber,Texas,Product 2,199,8
+264,2021-03-24,17,Company Q,Andrew James,Arizona,Product 2,199,1
+267,2021-03-25,16,Company P,Oscar Knox,Arizona,Product 2,199,8
+268,2021-03-25,4,Company D,Ben Wallace,Texas,Product 2,199,1
+269,2021-03-25,20,Company T,Oscar Knox,Arizona,Product 2,199,6
+271,2021-03-25,14,Company N,Michael Fox,New Mexico,Product 2,199,3
+273,2021-03-25,3,Company C,Ben Wallace,Texas,Product 2,199,9
+274,2021-03-25,7,Company G,Kim Fishman,California,Product 2,199,3
+280,2021-03-26,16,Company P,Andrew James,Arizona,Product 2,199,1
+293,2021-03-30,2,Company B,Anna Weber,Texas,Product 2,199,7
+299,2021-03-31,12,Company L,Michael Fox,New Mexico,Product 2,199,8
+307,2021-04-05,4,Company D,Anna Weber,Texas,Product 2,199,5
+308,2021-04-05,12,Company L,Michael Fox,New Mexico,Product 2,199,6
+312,2021-04-07,18,Company R,Oscar Knox,Arizona,Product 2,199,0
+313,2021-04-07,7,Company G,Kim Fishman,California,Product 2,199,9
+314,2021-04-07,2,Company B,Ben Wallace,Texas,Product 2,199,5
+315,2021-04-08,19,Company S,Oscar Knox,Arizona,Product 2,199,9
+316,2021-04-08,19,Company S,Oscar Knox,Arizona,Product 2,199,8
+317,2021-04-09,2,Company B,Anna Weber,Texas,Product 2,199,3
+318,2021-04-09,5,Company E,Ben Wallace,Texas,Product 2,199,4
+327,2021-04-14,9,Company I,Laura Larsen,California,Product 2,199,9
+328,2021-04-14,8,Company H,Kim Fishman,California,Product 2,199,2
+332,2021-04-14,6,Company F,Laura Larsen,California,Product 2,199,8
+344,2021-04-19,9,Company I,Kim Fishman,California,Product 2,199,6
+345,2021-04-19,13,Company M,Michael Fox,New Mexico,Product 2,199,2
+347,2021-04-19,18,Company R,Oscar Knox,Arizona,Product 2,199,0
+356,2021-04-21,18,Company R,Andrew James,Arizona,Product 2,199,8
+360,2021-04-22,19,Company S,Oscar Knox,Arizona,Product 2,199,9
+370,2021-04-24,15,Company O,Anne Lee,New Mexico,Product 2,199,4
+373,2021-04-24,15,Company O,Michael Fox,New Mexico,Product 2,199,6
+377,2021-04-25,12,Company L,Anne Lee,New Mexico,Product 2,199,6
+391,2021-04-28,10,Company J,Laura Larsen,California,Product 2,199,0
+394,2021-04-30,18,Company R,Oscar Knox,Arizona,Product 2,199,3
+409,2021-05-06,16,Company P,Oscar Knox,Arizona,Product 2,199,3
+413,2021-05-06,3,Company C,Ben Wallace,Texas,Product 2,199,1
+416,2021-05-08,13,Company M,Michael Fox,New Mexico,Product 2,199,1
+419,2021-05-10,14,Company N,Michael Fox,New Mexico,Product 2,199,3
+426,2021-05-12,17,Company Q,Andrew James,Arizona,Product 2,199,8
+427,2021-05-13,5,Company E,Anna Weber,Texas,Product 2,199,6
+436,2021-05-15,17,Company Q,Andrew James,Arizona,Product 2,199,0
+441,2021-05-15,18,Company R,Andrew James,Arizona,Product 2,199,6
+445,2021-05-16,9,Company I,Laura Larsen,California,Product 2,199,2
+458,2021-05-17,12,Company L,Anne Lee,New Mexico,Product 2,199,3
+467,2021-05-19,4,Company D,Anna Weber,Texas,Product 2,199,0
+475,2021-05-23,13,Company M,Michael Fox,New Mexico,Product 2,199,2
+484,2021-05-24,4,Company D,Ben Wallace,Texas,Product 2,199,4
+485,2021-05-25,16,Company P,Oscar Knox,Arizona,Product 2,199,7
+495,2021-05-26,13,Company M,Michael Fox,New Mexico,Product 2,199,5
+499,2021-05-26,18,Company R,Oscar Knox,Arizona,Product 2,199,8
+501,2021-05-27,2,Company B,Anna Weber,Texas,Product 2,199,5
+502,2021-05-27,2,Company B,Anna Weber,Texas,Product 2,199,0
+504,2021-05-28,9,Company I,Kim Fishman,California,Product 2,199,6
+505,2021-05-29,12,Company L,Anne Lee,New Mexico,Product 2,199,2
+518,2021-06-02,9,Company I,Kim Fishman,California,Product 2,199,7
+519,2021-06-03,5,Company E,Ben Wallace,Texas,Product 2,199,9
+522,2021-06-03,12,Company L,Anne Lee,New Mexico,Product 2,199,9
+529,2021-06-03,13,Company M,Anne Lee,New Mexico,Product 2,199,8
+531,2021-06-04,8,Company H,Kim Fishman,California,Product 2,199,3
+533,2021-06-05,8,Company H,Laura Larsen,California,Product 2,199,5
+535,2021-06-05,19,Company S,Oscar Knox,Arizona,Product 2,199,2
+537,2021-06-06,9,Company I,Laura Larsen,California,Product 2,199,1
+538,2021-06-06,8,Company H,Laura Larsen,California,Product 2,199,2
+539,2021-06-07,19,Company S,Oscar Knox,Arizona,Product 2,199,0
+546,2021-06-10,4,Company D,Ben Wallace,Texas,Product 2,199,5
+548,2021-06-11,2,Company B,Ben Wallace,Texas,Product 2,199,7
+549,2021-06-11,17,Company Q,Oscar Knox,Arizona,Product 2,199,2
+554,2021-06-12,19,Company S,Oscar Knox,Arizona,Product 2,199,4
+555,2021-06-12,6,Company F,Kim Fishman,California,Product 2,199,9
+565,2021-06-16,1,Company A,Anna Weber,Texas,Product 2,199,0
+585,2021-06-22,5,Company E,Anna Weber,Texas,Product 2,199,1
+595,2021-06-26,10,Company J,Laura Larsen,California,Product 2,199,6
+602,2021-06-28,12,Company L,Anne Lee,New Mexico,Product 2,199,3
+617,2021-07-06,19,Company S,Andrew James,Arizona,Product 2,199,8
+623,2021-07-07,14,Company N,Anne Lee,New Mexico,Product 2,199,0
+624,2021-07-08,3,Company C,Ben Wallace,Texas,Product 2,199,4
+631,2021-07-10,13,Company M,Michael Fox,New Mexico,Product 2,199,4
+644,2021-07-16,6,Company F,Laura Larsen,California,Product 2,199,6
+646,2021-07-16,14,Company N,Michael Fox,New Mexico,Product 2,199,0
+648,2021-07-16,8,Company H,Kim Fishman,California,Product 2,199,1
+659,2021-07-19,15,Company O,Anne Lee,New Mexico,Product 2,199,1
+670,2021-07-24,2,Company B,Anna Weber,Texas,Product 2,199,1
+685,2021-07-27,11,Company K,Anne Lee,New Mexico,Product 2,199,4
+688,2021-07-27,19,Company S,Oscar Knox,Arizona,Product 2,199,5
+693,2021-07-27,11,Company K,Michael Fox,New Mexico,Product 2,199,5
+696,2021-07-29,3,Company C,Ben Wallace,Texas,Product 2,199,8
+699,2021-07-31,5,Company E,Ben Wallace,Texas,Product 2,199,3
+702,2021-08-03,6,Company F,Laura Larsen,California,Product 2,199,3
+707,2021-08-03,10,Company J,Laura Larsen,California,Product 2,199,1
+711,2021-08-03,19,Company S,Oscar Knox,Arizona,Product 2,199,1
+717,2021-08-05,12,Company L,Michael Fox,New Mexico,Product 2,199,2
+729,2021-08-09,6,Company F,Laura Larsen,California,Product 2,199,7
+740,2021-08-13,19,Company S,Andrew James,Arizona,Product 2,199,4
+747,2021-08-17,6,Company F,Kim Fishman,California,Product 2,199,3
+748,2021-08-18,8,Company H,Kim Fishman,California,Product 2,199,7
+754,2021-08-20,14,Company N,Anne Lee,New Mexico,Product 2,199,2
+755,2021-08-20,20,Company T,Oscar Knox,Arizona,Product 2,199,6
+767,2021-08-23,13,Company M,Michael Fox,New Mexico,Product 2,199,1
+784,2021-08-29,2,Company B,Anna Weber,Texas,Product 2,199,5
+788,2021-08-30,14,Company N,Anne Lee,New Mexico,Product 2,199,6
+794,2021-09-01,11,Company K,Michael Fox,New Mexico,Product 2,199,8
+795,2021-09-01,13,Company M,Anne Lee,New Mexico,Product 2,199,9
+803,2021-09-03,17,Company Q,Andrew James,Arizona,Product 2,199,5
+809,2021-09-06,19,Company S,Oscar Knox,Arizona,Product 2,199,9
+828,2021-09-12,5,Company E,Anna Weber,Texas,Product 2,199,3
+831,2021-09-14,1,Company A,Anna Weber,Texas,Product 2,199,1
+837,2021-09-17,3,Company C,Ben Wallace,Texas,Product 2,199,6
+842,2021-09-20,12,Company L,Anne Lee,New Mexico,Product 2,199,4
+843,2021-09-20,4,Company D,Anna Weber,Texas,Product 2,199,7
+846,2021-09-22,8,Company H,Laura Larsen,California,Product 2,199,8
+849,2021-09-22,4,Company D,Anna Weber,Texas,Product 2,199,8
+854,2021-09-22,7,Company G,Kim Fishman,California,Product 2,199,5
+860,2021-09-24,6,Company F,Laura Larsen,California,Product 2,199,8
+863,2021-09-25,16,Company P,Oscar Knox,Arizona,Product 2,199,0
+867,2021-09-27,7,Company G,Laura Larsen,California,Product 2,199,6
+873,2021-09-29,20,Company T,Oscar Knox,Arizona,Product 2,199,3
+879,2021-09-30,20,Company T,Andrew James,Arizona,Product 2,199,1
+880,2021-09-30,6,Company F,Kim Fishman,California,Product 2,199,7
+883,2021-10-02,3,Company C,Ben Wallace,Texas,Product 2,199,5
+888,2021-10-04,15,Company O,Michael Fox,New Mexico,Product 2,199,3
+889,2021-10-05,20,Company T,Oscar Knox,Arizona,Product 2,199,3
+891,2021-10-05,4,Company D,Anna Weber,Texas,Product 2,199,9
+895,2021-10-06,9,Company I,Kim Fishman,California,Product 2,199,2
+896,2021-10-06,6,Company F,Laura Larsen,California,Product 2,199,8
+898,2021-10-06,17,Company Q,Andrew James,Arizona,Product 2,199,2
+899,2021-10-07,1,Company A,Ben Wallace,Texas,Product 2,199,4
+906,2021-10-11,19,Company S,Oscar Knox,Arizona,Product 2,199,5
+907,2021-10-12,10,Company J,Kim Fishman,California,Product 2,199,1
+910,2021-10-13,19,Company S,Oscar Knox,Arizona,Product 2,199,3
+913,2021-10-13,9,Company I,Laura Larsen,California,Product 2,199,5
+920,2021-10-15,2,Company B,Ben Wallace,Texas,Product 2,199,3
+925,2021-10-16,12,Company L,Michael Fox,New Mexico,Product 2,199,7
+926,2021-10-17,1,Company A,Ben Wallace,Texas,Product 2,199,0
+927,2021-10-17,8,Company H,Laura Larsen,California,Product 2,199,8
+930,2021-10-17,10,Company J,Laura Larsen,California,Product 2,199,3
+932,2021-10-19,5,Company E,Ben Wallace,Texas,Product 2,199,6
+940,2021-10-22,5,Company E,Anna Weber,Texas,Product 2,199,5
+945,2021-10-24,17,Company Q,Andrew James,Arizona,Product 2,199,5
+946,2021-10-25,1,Company A,Anna Weber,Texas,Product 2,199,1
+948,2021-10-25,9,Company I,Laura Larsen,California,Product 2,199,5
+951,2021-10-27,17,Company Q,Andrew James,Arizona,Product 2,199,1
+953,2021-10-27,3,Company C,Ben Wallace,Texas,Product 2,199,1
+954,2021-10-27,4,Company D,Anna Weber,Texas,Product 2,199,8
+955,2021-10-28,10,Company J,Kim Fishman,California,Product 2,199,0
+965,2021-10-29,2,Company B,Ben Wallace,Texas,Product 2,199,7
+971,2021-11-01,14,Company N,Anne Lee,New Mexico,Product 2,199,0
+977,2021-11-05,5,Company E,Ben Wallace,Texas,Product 2,199,9
+982,2021-11-08,8,Company H,Laura Larsen,California,Product 2,199,1
+987,2021-11-09,8,Company H,Kim Fishman,California,Product 2,199,7
+988,2021-11-09,17,Company Q,Oscar Knox,Arizona,Product 2,199,2
+992,2021-11-10,19,Company S,Andrew James,Arizona,Product 2,199,8
+996,2021-11-11,7,Company G,Kim Fishman,California,Product 2,199,0
+997,2021-11-11,13,Company M,Anne Lee,New Mexico,Product 2,199,9
+998,2021-11-12,14,Company N,Anne Lee,New Mexico,Product 2,199,5
+999,2021-11-13,2,Company B,Anna Weber,Texas,Product 2,199,3
+1000,2021-11-14,1,Company A,Ben Wallace,Texas,Product 2,199,7
+1002,2021-11-15,2,Company B,Ben Wallace,Texas,Product 2,199,2
+1004,2021-11-15,17,Company Q,Oscar Knox,Arizona,Product 2,199,9
+1005,2021-11-15,10,Company J,Kim Fishman,California,Product 2,199,1
+1007,2021-11-15,6,Company F,Kim Fishman,California,Product 2,199,7
+1010,2021-11-17,1,Company A,Anna Weber,Texas,Product 2,199,2
+1014,2021-11-18,2,Company B,Ben Wallace,Texas,Product 2,199,6
+1017,2021-11-19,12,Company L,Michael Fox,New Mexico,Product 2,199,4
+1025,2021-11-22,2,Company B,Ben Wallace,Texas,Product 2,199,9
+1032,2021-11-22,13,Company M,Michael Fox,New Mexico,Product 2,199,7
+1038,2021-11-23,17,Company Q,Andrew James,Arizona,Product 2,199,3
+1040,2021-11-24,7,Company G,Laura Larsen,California,Product 2,199,5
+1057,2021-11-29,8,Company H,Laura Larsen,California,Product 2,199,3
+1069,2021-12-06,4,Company D,Anna Weber,Texas,Product 2,199,2
+1070,2021-12-06,14,Company N,Michael Fox,New Mexico,Product 2,199,3
+1071,2021-12-06,4,Company D,Anna Weber,Texas,Product 2,199,5
+1084,2021-12-13,2,Company B,Anna Weber,Texas,Product 2,199,4
+1085,2021-12-13,5,Company E,Ben Wallace,Texas,Product 2,199,9
+1098,2021-12-18,10,Company J,Kim Fishman,California,Product 2,199,3
+1104,2021-12-18,12,Company L,Anne Lee,New Mexico,Product 2,199,2
+1107,2021-12-18,7,Company G,Laura Larsen,California,Product 2,199,9
+1115,2021-12-20,20,Company T,Andrew James,Arizona,Product 2,199,1
+1119,2021-12-20,10,Company J,Kim Fishman,California,Product 2,199,6
+1127,2021-12-23,17,Company Q,Andrew James,Arizona,Product 2,199,9
+1130,2021-12-25,18,Company R,Andrew James,Arizona,Product 2,199,8
+1132,2021-12-25,17,Company Q,Oscar Knox,Arizona,Product 2,199,3
+1146,2021-12-31,4,Company D,Anna Weber,Texas,Product 2,199,8
+1148,2022-01-02,19,Company S,Andrew James,Arizona,Product 2,199,0
+1158,2022-01-05,17,Company Q,Oscar Knox,Arizona,Product 2,199,6
+1160,2022-01-06,20,Company T,Andrew James,Arizona,Product 2,199,0
+1162,2022-01-06,15,Company O,Anne Lee,New Mexico,Product 2,199,7
+1163,2022-01-07,17,Company Q,Andrew James,Arizona,Product 2,199,0
+1165,2022-01-07,6,Company F,Kim Fishman,California,Product 2,199,1
+1171,2022-01-10,14,Company N,Michael Fox,New Mexico,Product 2,199,7
+1173,2022-01-10,6,Company F,Laura Larsen,California,Product 2,199,2
+1174,2022-01-11,11,Company K,Michael Fox,New Mexico,Product 2,199,6
+1177,2022-01-12,5,Company E,Ben Wallace,Texas,Product 2,199,9
+1184,2022-01-13,15,Company O,Anne Lee,New Mexico,Product 2,199,3
+1197,2022-01-16,6,Company F,Kim Fishman,California,Product 2,199,2
+1210,2022-01-18,11,Company K,Anne Lee,New Mexico,Product 2,199,7
+1224,2022-01-26,4,Company D,Anna Weber,Texas,Product 2,199,5
+1229,2022-01-28,12,Company L,Anne Lee,New Mexico,Product 2,199,4
+1240,2022-02-03,12,Company L,Michael Fox,New Mexico,Product 2,199,3
+1245,2022-02-05,8,Company H,Kim Fishman,California,Product 2,199,0
+1251,2022-02-05,3,Company C,Ben Wallace,Texas,Product 2,199,1
+1254,2022-02-07,15,Company O,Michael Fox,New Mexico,Product 2,199,8
+1260,2022-02-09,8,Company H,Laura Larsen,California,Product 2,199,3
+1261,2022-02-10,5,Company E,Ben Wallace,Texas,Product 2,199,5
+1266,2022-02-13,8,Company H,Laura Larsen,California,Product 2,199,7
+1267,2022-02-13,17,Company Q,Oscar Knox,Arizona,Product 2,199,9
+1271,2022-02-16,16,Company P,Oscar Knox,Arizona,Product 2,199,1
+1273,2022-02-18,20,Company T,Andrew James,Arizona,Product 2,199,5
+1281,2022-02-19,19,Company S,Oscar Knox,Arizona,Product 2,199,0
+1284,2022-02-19,8,Company H,Laura Larsen,California,Product 2,199,5
+1288,2022-02-19,7,Company G,Laura Larsen,California,Product 2,199,1
+1289,2022-02-19,17,Company Q,Andrew James,Arizona,Product 2,199,4
+1292,2022-02-20,2,Company B,Anna Weber,Texas,Product 2,199,3
+1299,2022-02-22,16,Company P,Andrew James,Arizona,Product 2,199,2
+1301,2022-02-22,3,Company C,Ben Wallace,Texas,Product 2,199,9
+1305,2022-02-23,6,Company F,Laura Larsen,California,Product 2,199,8
+1314,2022-02-26,11,Company K,Michael Fox,New Mexico,Product 2,199,9
+1319,2022-02-27,11,Company K,Anne Lee,New Mexico,Product 2,199,9
+1327,2022-03-01,3,Company C,Anna Weber,Texas,Product 2,199,6
+1333,2022-03-05,16,Company P,Andrew James,Arizona,Product 2,199,5
+1340,2022-03-07,2,Company B,Anna Weber,Texas,Product 2,199,7
+1343,2022-03-07,4,Company D,Ben Wallace,Texas,Product 2,199,1
+1344,2022-03-07,6,Company F,Kim Fishman,California,Product 2,199,0
+1348,2022-03-09,4,Company D,Ben Wallace,Texas,Product 2,199,6
+1349,2022-03-09,19,Company S,Andrew James,Arizona,Product 2,199,4
+1350,2022-03-09,8,Company H,Kim Fishman,California,Product 2,199,7
+1352,2022-03-10,15,Company O,Anne Lee,New Mexico,Product 2,199,2
+1365,2022-03-11,14,Company N,Michael Fox,New Mexico,Product 2,199,1
+1367,2022-03-11,8,Company H,Kim Fishman,California,Product 2,199,5
+1369,2022-03-13,11,Company K,Michael Fox,New Mexico,Product 2,199,0
+1373,2022-03-15,1,Company A,Ben Wallace,Texas,Product 2,199,4
+1384,2022-03-19,15,Company O,Michael Fox,New Mexico,Product 2,199,9
+1386,2022-03-19,2,Company B,Ben Wallace,Texas,Product 2,199,8
+1395,2022-03-21,4,Company D,Anna Weber,Texas,Product 2,199,3
+1399,2022-03-23,2,Company B,Ben Wallace,Texas,Product 2,199,8
+1405,2022-03-23,11,Company K,Anne Lee,New Mexico,Product 2,199,8
+1411,2022-03-26,8,Company H,Laura Larsen,California,Product 2,199,1
+1417,2022-03-27,18,Company R,Oscar Knox,Arizona,Product 2,199,2
+1420,2022-03-29,18,Company R,Andrew James,Arizona,Product 2,199,0
+1421,2022-03-29,2,Company B,Anna Weber,Texas,Product 2,199,0
+1422,2022-03-30,2,Company B,Ben Wallace,Texas,Product 2,199,9
+1428,2022-03-31,5,Company E,Ben Wallace,Texas,Product 2,199,9
+1430,2022-04-01,10,Company J,Kim Fishman,California,Product 2,199,6
+1437,2022-04-05,7,Company G,Laura Larsen,California,Product 2,199,8
+1439,2022-04-05,16,Company P,Andrew James,Arizona,Product 2,199,9
+1440,2022-04-05,18,Company R,Andrew James,Arizona,Product 2,199,2
+1441,2022-04-05,13,Company M,Anne Lee,New Mexico,Product 2,199,5
+1445,2022-04-06,1,Company A,Ben Wallace,Texas,Product 2,199,3
+1450,2022-04-07,4,Company D,Ben Wallace,Texas,Product 2,199,5
+1456,2022-04-09,17,Company Q,Oscar Knox,Arizona,Product 2,199,7
+1459,2022-04-10,17,Company Q,Andrew James,Arizona,Product 2,199,5
+1460,2022-04-11,13,Company M,Michael Fox,New Mexico,Product 2,199,9
+1463,2022-04-12,13,Company M,Michael Fox,New Mexico,Product 2,199,3
+1467,2022-04-15,3,Company C,Ben Wallace,Texas,Product 2,199,5
+1488,2022-04-23,12,Company L,Anne Lee,New Mexico,Product 2,199,8
+1497,2022-04-26,13,Company M,Anne Lee,New Mexico,Product 2,199,5
+1508,2022-05-01,2,Company B,Anna Weber,Texas,Product 2,199,4
+1514,2022-05-03,11,Company K,Michael Fox,New Mexico,Product 2,199,2
+1529,2022-05-07,18,Company R,Andrew James,Arizona,Product 2,199,1
+1531,2022-05-08,4,Company D,Anna Weber,Texas,Product 2,199,7
+1539,2022-05-11,15,Company O,Anne Lee,New Mexico,Product 2,199,7
+1542,2022-05-13,5,Company E,Ben Wallace,Texas,Product 2,199,6
+1544,2022-05-13,19,Company S,Andrew James,Arizona,Product 2,199,5
+1546,2022-05-15,15,Company O,Anne Lee,New Mexico,Product 2,199,7
+1550,2022-05-17,15,Company O,Michael Fox,New Mexico,Product 2,199,3
+1556,2022-05-17,17,Company Q,Oscar Knox,Arizona,Product 2,199,2
+1560,2022-05-19,20,Company T,Oscar Knox,Arizona,Product 2,199,2
+1564,2022-05-20,2,Company B,Anna Weber,Texas,Product 2,199,9
+1577,2022-05-25,13,Company M,Anne Lee,New Mexico,Product 2,199,0
+1579,2022-05-25,1,Company A,Ben Wallace,Texas,Product 2,199,1
+1580,2022-05-25,11,Company K,Anne Lee,New Mexico,Product 2,199,6
+1584,2022-05-25,5,Company E,Ben Wallace,Texas,Product 2,199,8
+1587,2022-05-26,11,Company K,Anne Lee,New Mexico,Product 2,199,1
+1595,2022-05-27,19,Company S,Oscar Knox,Arizona,Product 2,199,0
+1597,2022-05-28,16,Company P,Oscar Knox,Arizona,Product 2,199,8
+1600,2022-05-28,9,Company I,Laura Larsen,California,Product 2,199,1
+1602,2022-05-29,4,Company D,Ben Wallace,Texas,Product 2,199,1
+1603,2022-05-29,18,Company R,Oscar Knox,Arizona,Product 2,199,8
+1604,2022-05-29,13,Company M,Anne Lee,New Mexico,Product 2,199,7
+1625,2022-06-06,14,Company N,Anne Lee,New Mexico,Product 2,199,7
+1626,2022-06-06,15,Company O,Michael Fox,New Mexico,Product 2,199,6
+1638,2022-06-08,4,Company D,Ben Wallace,Texas,Product 2,199,1
+1643,2022-06-08,7,Company G,Laura Larsen,California,Product 2,199,9
+1646,2022-06-10,11,Company K,Michael Fox,New Mexico,Product 2,199,4
+1652,2022-06-11,9,Company I,Laura Larsen,California,Product 2,199,5
+1655,2022-06-14,17,Company Q,Andrew James,Arizona,Product 2,199,8
+1665,2022-06-15,17,Company Q,Andrew James,Arizona,Product 2,199,3
+1666,2022-06-16,20,Company T,Andrew James,Arizona,Product 2,199,7
+1675,2022-06-19,13,Company M,Michael Fox,New Mexico,Product 2,199,0
+1676,2022-06-19,11,Company K,Michael Fox,New Mexico,Product 2,199,7
+1679,2022-06-21,20,Company T,Oscar Knox,Arizona,Product 2,199,7
+1682,2022-06-22,3,Company C,Ben Wallace,Texas,Product 2,199,5
+1695,2022-06-29,8,Company H,Laura Larsen,California,Product 2,199,3
+1698,2022-07-02,8,Company H,Laura Larsen,California,Product 2,199,3
+1702,2022-07-05,8,Company H,Kim Fishman,California,Product 2,199,5
+1705,2022-07-07,9,Company I,Kim Fishman,California,Product 2,199,2
+1708,2022-07-10,5,Company E,Anna Weber,Texas,Product 2,199,3
+1709,2022-07-10,8,Company H,Laura Larsen,California,Product 2,199,6
+1714,2022-07-12,13,Company M,Michael Fox,New Mexico,Product 2,199,3
+1721,2022-07-13,6,Company F,Laura Larsen,California,Product 2,199,1
+1722,2022-07-14,16,Company P,Andrew James,Arizona,Product 2,199,8
+1723,2022-07-14,10,Company J,Laura Larsen,California,Product 2,199,2
+1727,2022-07-14,4,Company D,Anna Weber,Texas,Product 2,199,3
+1740,2022-07-20,2,Company B,Anna Weber,Texas,Product 2,199,4
+1745,2022-07-21,9,Company I,Laura Larsen,California,Product 2,199,5
+1747,2022-07-22,6,Company F,Laura Larsen,California,Product 2,199,0
+1760,2022-07-27,18,Company R,Oscar Knox,Arizona,Product 2,199,0
+1761,2022-07-28,11,Company K,Michael Fox,New Mexico,Product 2,199,4
+1763,2022-07-29,2,Company B,Anna Weber,Texas,Product 2,199,7
+1765,2022-07-30,9,Company I,Laura Larsen,California,Product 2,199,3
+1771,2022-08-03,4,Company D,Anna Weber,Texas,Product 2,199,7
+1772,2022-08-04,18,Company R,Andrew James,Arizona,Product 2,199,8
+1773,2022-08-04,5,Company E,Anna Weber,Texas,Product 2,199,2
+1774,2022-08-04,8,Company H,Laura Larsen,California,Product 2,199,1
+1782,2022-08-08,13,Company M,Michael Fox,New Mexico,Product 2,199,3
+1789,2022-08-10,4,Company D,Ben Wallace,Texas,Product 2,199,9
+1797,2022-08-12,10,Company J,Kim Fishman,California,Product 2,199,2
+1800,2022-08-12,9,Company I,Kim Fishman,California,Product 2,199,8
+1802,2022-08-12,6,Company F,Laura Larsen,California,Product 2,199,6
+1804,2022-08-12,8,Company H,Laura Larsen,California,Product 2,199,6
+1808,2022-08-13,9,Company I,Laura Larsen,California,Product 2,199,3
+1815,2022-08-16,5,Company E,Ben Wallace,Texas,Product 2,199,2
+1818,2022-08-17,5,Company E,Anna Weber,Texas,Product 2,199,4
+1819,2022-08-17,9,Company I,Kim Fishman,California,Product 2,199,9
+1821,2022-08-17,7,Company G,Laura Larsen,California,Product 2,199,6
+1823,2022-08-18,9,Company I,Kim Fishman,California,Product 2,199,3
+1825,2022-08-19,11,Company K,Michael Fox,New Mexico,Product 2,199,5
+1831,2022-08-21,8,Company H,Kim Fishman,California,Product 2,199,3
+1834,2022-08-21,5,Company E,Ben Wallace,Texas,Product 2,199,7
+1836,2022-08-21,9,Company I,Laura Larsen,California,Product 2,199,5
+1840,2022-08-22,17,Company Q,Andrew James,Arizona,Product 2,199,5
+1841,2022-08-22,3,Company C,Ben Wallace,Texas,Product 2,199,4
+1843,2022-08-22,20,Company T,Oscar Knox,Arizona,Product 2,199,1
+1844,2022-08-22,5,Company E,Anna Weber,Texas,Product 2,199,4
+1857,2022-08-30,7,Company G,Laura Larsen,California,Product 2,199,1
+1868,2022-09-02,15,Company O,Michael Fox,New Mexico,Product 2,199,5
+1873,2022-09-05,8,Company H,Laura Larsen,California,Product 2,199,6
+1876,2022-09-06,16,Company P,Oscar Knox,Arizona,Product 2,199,8
+1882,2022-09-07,2,Company B,Anna Weber,Texas,Product 2,199,1
+1885,2022-09-08,14,Company N,Anne Lee,New Mexico,Product 2,199,3
+1890,2022-09-10,10,Company J,Laura Larsen,California,Product 2,199,5
+1893,2022-09-11,15,Company O,Anne Lee,New Mexico,Product 2,199,1
+1898,2022-09-13,3,Company C,Ben Wallace,Texas,Product 2,199,1
+1899,2022-09-14,9,Company I,Laura Larsen,California,Product 2,199,0
+1900,2022-09-15,2,Company B,Anna Weber,Texas,Product 2,199,6
+1908,2022-09-18,20,Company T,Andrew James,Arizona,Product 2,199,7
+1915,2022-09-19,11,Company K,Michael Fox,New Mexico,Product 2,199,9
+1919,2022-09-20,11,Company K,Anne Lee,New Mexico,Product 2,199,4
+1924,2022-09-20,6,Company F,Kim Fishman,California,Product 2,199,0
+1926,2022-09-22,1,Company A,Anna Weber,Texas,Product 2,199,3
+1929,2022-09-22,9,Company I,Laura Larsen,California,Product 2,199,3
+1942,2022-09-28,4,Company D,Anna Weber,Texas,Product 2,199,0
+1944,2022-09-29,12,Company L,Anne Lee,New Mexico,Product 2,199,2
+1946,2022-09-29,16,Company P,Andrew James,Arizona,Product 2,199,4
+1947,2022-09-29,19,Company S,Andrew James,Arizona,Product 2,199,2
+1955,2022-10-02,10,Company J,Kim Fishman,California,Product 2,199,7
+1965,2022-10-05,4,Company D,Ben Wallace,Texas,Product 2,199,2
+1969,2022-10-05,3,Company C,Ben Wallace,Texas,Product 2,199,1
+1978,2022-10-08,14,Company N,Anne Lee,New Mexico,Product 2,199,0
+1984,2022-10-11,20,Company T,Oscar Knox,Arizona,Product 2,199,1
+1988,2022-10-13,2,Company B,Ben Wallace,Texas,Product 2,199,5
+1990,2022-10-13,11,Company K,Michael Fox,New Mexico,Product 2,199,4
+1991,2022-10-14,3,Company C,Anna Weber,Texas,Product 2,199,7
+1993,2022-10-16,15,Company O,Anne Lee,New Mexico,Product 2,199,1
+1995,2022-10-16,1,Company A,Anna Weber,Texas,Product 2,199,8
+2000,2022-10-16,14,Company N,Michael Fox,New Mexico,Product 2,199,4
+3,2021-01-03,9,Company I,Kim Fishman,California,Product 4,159,3
+18,2021-01-07,19,Company S,Oscar Knox,Arizona,Product 4,159,5
+23,2021-01-07,8,Company H,Laura Larsen,California,Product 4,159,4
+31,2021-01-09,6,Company F,Kim Fishman,California,Product 4,159,2
+43,2021-01-13,13,Company M,Anne Lee,New Mexico,Product 4,159,8
+46,2021-01-13,14,Company N,Michael Fox,New Mexico,Product 4,159,7
+49,2021-01-13,4,Company D,Ben Wallace,Texas,Product 4,159,5
+50,2021-01-13,5,Company E,Ben Wallace,Texas,Product 4,159,7
+61,2021-01-16,2,Company B,Anna Weber,Texas,Product 4,159,8
+62,2021-01-17,20,Company T,Andrew James,Arizona,Product 4,159,9
+71,2021-01-21,17,Company Q,Oscar Knox,Arizona,Product 4,159,4
+73,2021-01-23,15,Company O,Anne Lee,New Mexico,Product 4,159,1
+87,2021-01-27,17,Company Q,Andrew James,Arizona,Product 4,159,3
+98,2021-01-30,19,Company S,Oscar Knox,Arizona,Product 4,159,8
+105,2021-02-02,11,Company K,Michael Fox,New Mexico,Product 4,159,0
+106,2021-02-02,2,Company B,Ben Wallace,Texas,Product 4,159,5
+107,2021-02-02,7,Company G,Kim Fishman,California,Product 4,159,5
+109,2021-02-02,20,Company T,Oscar Knox,Arizona,Product 4,159,7
+114,2021-02-05,9,Company I,Kim Fishman,California,Product 4,159,4
+120,2021-02-06,14,Company N,Michael Fox,New Mexico,Product 4,159,3
+125,2021-02-08,10,Company J,Kim Fishman,California,Product 4,159,0
+127,2021-02-08,8,Company H,Laura Larsen,California,Product 4,159,4
+132,2021-02-11,7,Company G,Kim Fishman,California,Product 4,159,9
+134,2021-02-12,13,Company M,Michael Fox,New Mexico,Product 4,159,7
+141,2021-02-13,10,Company J,Kim Fishman,California,Product 4,159,8
+144,2021-02-13,13,Company M,Anne Lee,New Mexico,Product 4,159,2
+147,2021-02-13,13,Company M,Anne Lee,New Mexico,Product 4,159,5
+152,2021-02-13,12,Company L,Michael Fox,New Mexico,Product 4,159,6
+156,2021-02-15,18,Company R,Andrew James,Arizona,Product 4,159,4
+159,2021-02-16,20,Company T,Oscar Knox,Arizona,Product 4,159,6
+165,2021-02-17,4,Company D,Anna Weber,Texas,Product 4,159,1
+168,2021-02-18,7,Company G,Kim Fishman,California,Product 4,159,2
+178,2021-02-21,13,Company M,Michael Fox,New Mexico,Product 4,159,1
+182,2021-02-21,1,Company A,Anna Weber,Texas,Product 4,159,2
+184,2021-02-23,12,Company L,Anne Lee,New Mexico,Product 4,159,7
+191,2021-02-25,11,Company K,Michael Fox,New Mexico,Product 4,159,4
+193,2021-02-27,9,Company I,Laura Larsen,California,Product 4,159,1
+195,2021-02-27,15,Company O,Anne Lee,New Mexico,Product 4,159,8
+198,2021-03-01,18,Company R,Oscar Knox,Arizona,Product 4,159,6
+199,2021-03-02,17,Company Q,Andrew James,Arizona,Product 4,159,4
+209,2021-03-08,16,Company P,Andrew James,Arizona,Product 4,159,3
+213,2021-03-09,1,Company A,Ben Wallace,Texas,Product 4,159,2
+218,2021-03-11,8,Company H,Laura Larsen,California,Product 4,159,2
+219,2021-03-11,7,Company G,Laura Larsen,California,Product 4,159,1
+220,2021-03-11,17,Company Q,Andrew James,Arizona,Product 4,159,2
+221,2021-03-11,13,Company M,Michael Fox,New Mexico,Product 4,159,3
+223,2021-03-11,10,Company J,Laura Larsen,California,Product 4,159,8
+244,2021-03-17,4,Company D,Anna Weber,Texas,Product 4,159,2
+245,2021-03-18,19,Company S,Oscar Knox,Arizona,Product 4,159,0
+250,2021-03-18,8,Company H,Kim Fishman,California,Product 4,159,7
+254,2021-03-19,6,Company F,Kim Fishman,California,Product 4,159,4
+256,2021-03-19,18,Company R,Oscar Knox,Arizona,Product 4,159,2
+262,2021-03-22,8,Company H,Laura Larsen,California,Product 4,159,1
+263,2021-03-23,7,Company G,Laura Larsen,California,Product 4,159,5
+276,2021-03-25,2,Company B,Anna Weber,Texas,Product 4,159,7
+282,2021-03-27,16,Company P,Oscar Knox,Arizona,Product 4,159,6
+283,2021-03-27,20,Company T,Andrew James,Arizona,Product 4,159,0
+284,2021-03-27,2,Company B,Anna Weber,Texas,Product 4,159,4
+288,2021-03-27,3,Company C,Ben Wallace,Texas,Product 4,159,2
+290,2021-03-29,3,Company C,Anna Weber,Texas,Product 4,159,9
+292,2021-03-30,1,Company A,Ben Wallace,Texas,Product 4,159,0
+294,2021-03-30,16,Company P,Oscar Knox,Arizona,Product 4,159,2
+303,2021-04-04,20,Company T,Oscar Knox,Arizona,Product 4,159,0
+306,2021-04-05,1,Company A,Anna Weber,Texas,Product 4,159,3
+324,2021-04-14,17,Company Q,Andrew James,Arizona,Product 4,159,4
+336,2021-04-16,4,Company D,Anna Weber,Texas,Product 4,159,9
+340,2021-04-19,8,Company H,Laura Larsen,California,Product 4,159,6
+343,2021-04-19,5,Company E,Anna Weber,Texas,Product 4,159,0
+349,2021-04-19,13,Company M,Anne Lee,New Mexico,Product 4,159,5
+352,2021-04-19,10,Company J,Laura Larsen,California,Product 4,159,9
+363,2021-04-22,5,Company E,Ben Wallace,Texas,Product 4,159,5
+364,2021-04-22,16,Company P,Andrew James,Arizona,Product 4,159,9
+369,2021-04-24,6,Company F,Laura Larsen,California,Product 4,159,7
+371,2021-04-24,18,Company R,Andrew James,Arizona,Product 4,159,8
+375,2021-04-25,15,Company O,Anne Lee,New Mexico,Product 4,159,4
+379,2021-04-25,15,Company O,Michael Fox,New Mexico,Product 4,159,0
+380,2021-04-26,19,Company S,Andrew James,Arizona,Product 4,159,5
+383,2021-04-28,2,Company B,Anna Weber,Texas,Product 4,159,7
+384,2021-04-28,1,Company A,Ben Wallace,Texas,Product 4,159,5
+387,2021-04-28,9,Company I,Laura Larsen,California,Product 4,159,8
+396,2021-05-02,14,Company N,Anne Lee,New Mexico,Product 4,159,5
+398,2021-05-03,18,Company R,Andrew James,Arizona,Product 4,159,0
+404,2021-05-06,5,Company E,Anna Weber,Texas,Product 4,159,9
+405,2021-05-06,1,Company A,Anna Weber,Texas,Product 4,159,5
+406,2021-05-06,6,Company F,Laura Larsen,California,Product 4,159,8
+410,2021-05-06,16,Company P,Andrew James,Arizona,Product 4,159,4
+411,2021-05-06,8,Company H,Laura Larsen,California,Product 4,159,4
+415,2021-05-08,17,Company Q,Andrew James,Arizona,Product 4,159,7
+418,2021-05-10,6,Company F,Laura Larsen,California,Product 4,159,9
+420,2021-05-11,18,Company R,Andrew James,Arizona,Product 4,159,9
+421,2021-05-11,6,Company F,Laura Larsen,California,Product 4,159,4
+422,2021-05-12,4,Company D,Ben Wallace,Texas,Product 4,159,9
+439,2021-05-15,16,Company P,Andrew James,Arizona,Product 4,159,1
+448,2021-05-16,10,Company J,Kim Fishman,California,Product 4,159,1
+454,2021-05-16,13,Company M,Michael Fox,New Mexico,Product 4,159,8
+457,2021-05-17,3,Company C,Anna Weber,Texas,Product 4,159,9
+459,2021-05-17,5,Company E,Ben Wallace,Texas,Product 4,159,1
+460,2021-05-18,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+465,2021-05-19,11,Company K,Anne Lee,New Mexico,Product 4,159,9
+466,2021-05-19,2,Company B,Anna Weber,Texas,Product 4,159,3
+468,2021-05-19,18,Company R,Andrew James,Arizona,Product 4,159,9
+476,2021-05-23,8,Company H,Kim Fishman,California,Product 4,159,3
+478,2021-05-23,6,Company F,Kim Fishman,California,Product 4,159,3
+479,2021-05-23,7,Company G,Kim Fishman,California,Product 4,159,2
+486,2021-05-25,8,Company H,Kim Fishman,California,Product 4,159,4
+488,2021-05-25,20,Company T,Oscar Knox,Arizona,Product 4,159,2
+489,2021-05-25,13,Company M,Michael Fox,New Mexico,Product 4,159,7
+490,2021-05-25,13,Company M,Michael Fox,New Mexico,Product 4,159,4
+494,2021-05-26,16,Company P,Andrew James,Arizona,Product 4,159,9
+509,2021-05-30,19,Company S,Oscar Knox,Arizona,Product 4,159,8
+525,2021-06-03,7,Company G,Kim Fishman,California,Product 4,159,3
+534,2021-06-05,7,Company G,Laura Larsen,California,Product 4,159,9
+540,2021-06-08,9,Company I,Laura Larsen,California,Product 4,159,3
+543,2021-06-08,20,Company T,Andrew James,Arizona,Product 4,159,5
+550,2021-06-11,18,Company R,Oscar Knox,Arizona,Product 4,159,0
+557,2021-06-12,5,Company E,Ben Wallace,Texas,Product 4,159,1
+566,2021-06-16,10,Company J,Kim Fishman,California,Product 4,159,8
+567,2021-06-16,1,Company A,Ben Wallace,Texas,Product 4,159,8
+569,2021-06-17,18,Company R,Oscar Knox,Arizona,Product 4,159,7
+572,2021-06-18,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+574,2021-06-20,5,Company E,Anna Weber,Texas,Product 4,159,3
+577,2021-06-20,12,Company L,Michael Fox,New Mexico,Product 4,159,6
+580,2021-06-22,15,Company O,Anne Lee,New Mexico,Product 4,159,6
+581,2021-06-22,15,Company O,Michael Fox,New Mexico,Product 4,159,8
+590,2021-06-24,18,Company R,Andrew James,Arizona,Product 4,159,5
+599,2021-06-28,2,Company B,Anna Weber,Texas,Product 4,159,5
+605,2021-06-29,15,Company O,Anne Lee,New Mexico,Product 4,159,5
+615,2021-07-04,10,Company J,Kim Fishman,California,Product 4,159,2
+620,2021-07-07,20,Company T,Andrew James,Arizona,Product 4,159,9
+621,2021-07-07,10,Company J,Laura Larsen,California,Product 4,159,7
+622,2021-07-07,13,Company M,Anne Lee,New Mexico,Product 4,159,9
+630,2021-07-09,10,Company J,Kim Fishman,California,Product 4,159,3
+633,2021-07-11,20,Company T,Oscar Knox,Arizona,Product 4,159,3
+635,2021-07-11,3,Company C,Anna Weber,Texas,Product 4,159,5
+637,2021-07-13,17,Company Q,Oscar Knox,Arizona,Product 4,159,6
+638,2021-07-13,11,Company K,Michael Fox,New Mexico,Product 4,159,5
+651,2021-07-17,17,Company Q,Andrew James,Arizona,Product 4,159,2
+652,2021-07-17,15,Company O,Anne Lee,New Mexico,Product 4,159,3
+653,2021-07-18,5,Company E,Ben Wallace,Texas,Product 4,159,1
+656,2021-07-18,12,Company L,Anne Lee,New Mexico,Product 4,159,5
+658,2021-07-18,5,Company E,Anna Weber,Texas,Product 4,159,9
+661,2021-07-20,16,Company P,Oscar Knox,Arizona,Product 4,159,3
+663,2021-07-20,20,Company T,Oscar Knox,Arizona,Product 4,159,4
+672,2021-07-25,12,Company L,Michael Fox,New Mexico,Product 4,159,7
+673,2021-07-25,17,Company Q,Oscar Knox,Arizona,Product 4,159,8
+675,2021-07-26,13,Company M,Michael Fox,New Mexico,Product 4,159,4
+677,2021-07-26,15,Company O,Michael Fox,New Mexico,Product 4,159,9
+679,2021-07-26,7,Company G,Kim Fishman,California,Product 4,159,6
+684,2021-07-27,18,Company R,Oscar Knox,Arizona,Product 4,159,3
+689,2021-07-27,19,Company S,Andrew James,Arizona,Product 4,159,8
+694,2021-07-27,8,Company H,Laura Larsen,California,Product 4,159,8
+697,2021-07-29,5,Company E,Ben Wallace,Texas,Product 4,159,1
+706,2021-08-03,7,Company G,Laura Larsen,California,Product 4,159,2
+709,2021-08-03,1,Company A,Anna Weber,Texas,Product 4,159,9
+712,2021-08-04,12,Company L,Michael Fox,New Mexico,Product 4,159,0
+713,2021-08-04,19,Company S,Oscar Knox,Arizona,Product 4,159,8
+715,2021-08-05,13,Company M,Anne Lee,New Mexico,Product 4,159,5
+718,2021-08-06,13,Company M,Anne Lee,New Mexico,Product 4,159,3
+719,2021-08-06,2,Company B,Ben Wallace,Texas,Product 4,159,4
+721,2021-08-07,7,Company G,Laura Larsen,California,Product 4,159,5
+722,2021-08-07,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+733,2021-08-10,17,Company Q,Andrew James,Arizona,Product 4,159,4
+736,2021-08-11,14,Company N,Michael Fox,New Mexico,Product 4,159,6
+737,2021-08-11,12,Company L,Anne Lee,New Mexico,Product 4,159,5
+746,2021-08-17,2,Company B,Ben Wallace,Texas,Product 4,159,8
+750,2021-08-18,20,Company T,Andrew James,Arizona,Product 4,159,9
+761,2021-08-21,16,Company P,Andrew James,Arizona,Product 4,159,6
+765,2021-08-22,19,Company S,Andrew James,Arizona,Product 4,159,8
+768,2021-08-24,15,Company O,Anne Lee,New Mexico,Product 4,159,1
+782,2021-08-29,1,Company A,Anna Weber,Texas,Product 4,159,9
+789,2021-08-30,6,Company F,Laura Larsen,California,Product 4,159,8
+790,2021-08-30,13,Company M,Anne Lee,New Mexico,Product 4,159,8
+792,2021-08-31,16,Company P,Oscar Knox,Arizona,Product 4,159,9
+800,2021-09-03,3,Company C,Ben Wallace,Texas,Product 4,159,4
+807,2021-09-05,11,Company K,Michael Fox,New Mexico,Product 4,159,5
+813,2021-09-08,16,Company P,Andrew James,Arizona,Product 4,159,8
+814,2021-09-08,16,Company P,Oscar Knox,Arizona,Product 4,159,4
+815,2021-09-08,3,Company C,Anna Weber,Texas,Product 4,159,8
+820,2021-09-10,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+821,2021-09-10,12,Company L,Michael Fox,New Mexico,Product 4,159,4
+827,2021-09-11,1,Company A,Anna Weber,Texas,Product 4,159,3
+840,2021-09-20,6,Company F,Laura Larsen,California,Product 4,159,8
+845,2021-09-21,8,Company H,Laura Larsen,California,Product 4,159,7
+847,2021-09-22,5,Company E,Anna Weber,Texas,Product 4,159,0
+856,2021-09-22,19,Company S,Andrew James,Arizona,Product 4,159,3
+870,2021-09-28,3,Company C,Ben Wallace,Texas,Product 4,159,5
+872,2021-09-28,1,Company A,Anna Weber,Texas,Product 4,159,5
+878,2021-09-30,15,Company O,Anne Lee,New Mexico,Product 4,159,0
+882,2021-10-01,7,Company G,Laura Larsen,California,Product 4,159,2
+885,2021-10-02,15,Company O,Anne Lee,New Mexico,Product 4,159,8
+886,2021-10-03,20,Company T,Oscar Knox,Arizona,Product 4,159,1
+892,2021-10-05,16,Company P,Andrew James,Arizona,Product 4,159,7
+894,2021-10-06,11,Company K,Anne Lee,New Mexico,Product 4,159,6
+900,2021-10-07,4,Company D,Anna Weber,Texas,Product 4,159,5
+909,2021-10-13,7,Company G,Laura Larsen,California,Product 4,159,8
+914,2021-10-13,14,Company N,Michael Fox,New Mexico,Product 4,159,7
+918,2021-10-15,18,Company R,Andrew James,Arizona,Product 4,159,5
+923,2021-10-16,15,Company O,Anne Lee,New Mexico,Product 4,159,3
+928,2021-10-17,20,Company T,Andrew James,Arizona,Product 4,159,8
+929,2021-10-17,14,Company N,Anne Lee,New Mexico,Product 4,159,5
+933,2021-10-19,10,Company J,Laura Larsen,California,Product 4,159,6
+934,2021-10-20,17,Company Q,Andrew James,Arizona,Product 4,159,1
+941,2021-10-22,20,Company T,Oscar Knox,Arizona,Product 4,159,5
+943,2021-10-22,6,Company F,Kim Fishman,California,Product 4,159,6
+956,2021-10-29,6,Company F,Kim Fishman,California,Product 4,159,4
+963,2021-10-29,14,Company N,Michael Fox,New Mexico,Product 4,159,1
+966,2021-10-29,18,Company R,Andrew James,Arizona,Product 4,159,7
+969,2021-10-30,7,Company G,Laura Larsen,California,Product 4,159,1
+972,2021-11-02,19,Company S,Oscar Knox,Arizona,Product 4,159,4
+975,2021-11-04,13,Company M,Anne Lee,New Mexico,Product 4,159,2
+978,2021-11-06,20,Company T,Oscar Knox,Arizona,Product 4,159,0
+985,2021-11-08,10,Company J,Kim Fishman,California,Product 4,159,9
+986,2021-11-08,9,Company I,Laura Larsen,California,Product 4,159,7
+989,2021-11-09,4,Company D,Anna Weber,Texas,Product 4,159,9
+994,2021-11-10,5,Company E,Anna Weber,Texas,Product 4,159,4
+1003,2021-11-15,10,Company J,Laura Larsen,California,Product 4,159,4
+1006,2021-11-15,19,Company S,Oscar Knox,Arizona,Product 4,159,2
+1022,2021-11-22,1,Company A,Ben Wallace,Texas,Product 4,159,6
+1026,2021-11-22,8,Company H,Kim Fishman,California,Product 4,159,6
+1028,2021-11-22,20,Company T,Oscar Knox,Arizona,Product 4,159,0
+1041,2021-11-24,18,Company R,Andrew James,Arizona,Product 4,159,2
+1054,2021-11-28,6,Company F,Laura Larsen,California,Product 4,159,2
+1060,2021-11-30,2,Company B,Anna Weber,Texas,Product 4,159,1
+1082,2021-12-13,16,Company P,Oscar Knox,Arizona,Product 4,159,0
+1088,2021-12-13,11,Company K,Anne Lee,New Mexico,Product 4,159,3
+1093,2021-12-16,18,Company R,Oscar Knox,Arizona,Product 4,159,4
+1100,2021-12-18,8,Company H,Laura Larsen,California,Product 4,159,3
+1105,2021-12-18,12,Company L,Michael Fox,New Mexico,Product 4,159,7
+1109,2021-12-19,11,Company K,Michael Fox,New Mexico,Product 4,159,2
+1110,2021-12-19,10,Company J,Laura Larsen,California,Product 4,159,9
+1116,2021-12-20,14,Company N,Michael Fox,New Mexico,Product 4,159,9
+1120,2021-12-21,1,Company A,Ben Wallace,Texas,Product 4,159,8
+1122,2021-12-23,6,Company F,Laura Larsen,California,Product 4,159,2
+1123,2021-12-23,9,Company I,Kim Fishman,California,Product 4,159,9
+1124,2021-12-23,14,Company N,Michael Fox,New Mexico,Product 4,159,2
+1129,2021-12-24,13,Company M,Michael Fox,New Mexico,Product 4,159,2
+1134,2021-12-25,12,Company L,Anne Lee,New Mexico,Product 4,159,5
+1136,2021-12-25,16,Company P,Oscar Knox,Arizona,Product 4,159,4
+1138,2021-12-25,14,Company N,Michael Fox,New Mexico,Product 4,159,0
+1140,2021-12-27,6,Company F,Laura Larsen,California,Product 4,159,1
+1141,2021-12-27,15,Company O,Michael Fox,New Mexico,Product 4,159,0
+1149,2022-01-02,10,Company J,Kim Fishman,California,Product 4,159,7
+1150,2022-01-02,5,Company E,Ben Wallace,Texas,Product 4,159,0
+1153,2022-01-04,20,Company T,Andrew James,Arizona,Product 4,159,2
+1159,2022-01-06,7,Company G,Laura Larsen,California,Product 4,159,1
+1168,2022-01-08,3,Company C,Ben Wallace,Texas,Product 4,159,6
+1170,2022-01-09,3,Company C,Ben Wallace,Texas,Product 4,159,0
+1172,2022-01-10,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+1185,2022-01-13,13,Company M,Michael Fox,New Mexico,Product 4,159,0
+1186,2022-01-13,3,Company C,Ben Wallace,Texas,Product 4,159,4
+1188,2022-01-13,8,Company H,Kim Fishman,California,Product 4,159,6
+1192,2022-01-14,10,Company J,Laura Larsen,California,Product 4,159,3
+1207,2022-01-17,10,Company J,Laura Larsen,California,Product 4,159,3
+1211,2022-01-19,9,Company I,Laura Larsen,California,Product 4,159,7
+1212,2022-01-20,14,Company N,Michael Fox,New Mexico,Product 4,159,1
+1216,2022-01-21,10,Company J,Laura Larsen,California,Product 4,159,1
+1217,2022-01-21,4,Company D,Ben Wallace,Texas,Product 4,159,4
+1221,2022-01-23,10,Company J,Laura Larsen,California,Product 4,159,6
+1222,2022-01-24,8,Company H,Kim Fishman,California,Product 4,159,4
+1232,2022-01-28,4,Company D,Anna Weber,Texas,Product 4,159,7
+1234,2022-01-29,9,Company I,Laura Larsen,California,Product 4,159,3
+1236,2022-01-30,3,Company C,Ben Wallace,Texas,Product 4,159,9
+1247,2022-02-05,12,Company L,Michael Fox,New Mexico,Product 4,159,2
+1253,2022-02-06,12,Company L,Anne Lee,New Mexico,Product 4,159,2
+1257,2022-02-08,14,Company N,Anne Lee,New Mexico,Product 4,159,8
+1262,2022-02-10,13,Company M,Anne Lee,New Mexico,Product 4,159,8
+1265,2022-02-13,13,Company M,Michael Fox,New Mexico,Product 4,159,3
+1293,2022-02-20,9,Company I,Laura Larsen,California,Product 4,159,2
+1312,2022-02-26,13,Company M,Anne Lee,New Mexico,Product 4,159,5
+1313,2022-02-26,8,Company H,Kim Fishman,California,Product 4,159,8
+1324,2022-03-01,17,Company Q,Andrew James,Arizona,Product 4,159,9
+1326,2022-03-01,8,Company H,Laura Larsen,California,Product 4,159,5
+1328,2022-03-02,1,Company A,Ben Wallace,Texas,Product 4,159,6
+1336,2022-03-06,8,Company H,Laura Larsen,California,Product 4,159,8
+1337,2022-03-06,19,Company S,Oscar Knox,Arizona,Product 4,159,5
+1341,2022-03-07,12,Company L,Michael Fox,New Mexico,Product 4,159,0
+1345,2022-03-07,8,Company H,Laura Larsen,California,Product 4,159,2
+1347,2022-03-09,14,Company N,Michael Fox,New Mexico,Product 4,159,1
+1364,2022-03-11,15,Company O,Michael Fox,New Mexico,Product 4,159,9
+1366,2022-03-11,18,Company R,Andrew James,Arizona,Product 4,159,1
+1372,2022-03-14,4,Company D,Anna Weber,Texas,Product 4,159,2
+1375,2022-03-17,4,Company D,Ben Wallace,Texas,Product 4,159,5
+1377,2022-03-17,14,Company N,Michael Fox,New Mexico,Product 4,159,6
+1380,2022-03-17,11,Company K,Anne Lee,New Mexico,Product 4,159,4
+1381,2022-03-18,11,Company K,Anne Lee,New Mexico,Product 4,159,9
+1387,2022-03-19,18,Company R,Oscar Knox,Arizona,Product 4,159,8
+1390,2022-03-19,4,Company D,Anna Weber,Texas,Product 4,159,3
+1392,2022-03-20,15,Company O,Anne Lee,New Mexico,Product 4,159,5
+1397,2022-03-23,2,Company B,Anna Weber,Texas,Product 4,159,5
+1406,2022-03-23,15,Company O,Anne Lee,New Mexico,Product 4,159,7
+1415,2022-03-27,17,Company Q,Andrew James,Arizona,Product 4,159,7
+1419,2022-03-29,18,Company R,Andrew James,Arizona,Product 4,159,0
+1425,2022-03-31,19,Company S,Andrew James,Arizona,Product 4,159,6
+1432,2022-04-03,12,Company L,Michael Fox,New Mexico,Product 4,159,8
+1434,2022-04-04,8,Company H,Kim Fishman,California,Product 4,159,4
+1448,2022-04-07,15,Company O,Michael Fox,New Mexico,Product 4,159,7
+1449,2022-04-07,20,Company T,Andrew James,Arizona,Product 4,159,9
+1451,2022-04-08,12,Company L,Michael Fox,New Mexico,Product 4,159,9
+1455,2022-04-09,5,Company E,Anna Weber,Texas,Product 4,159,7
+1461,2022-04-11,16,Company P,Oscar Knox,Arizona,Product 4,159,8
+1474,2022-04-18,15,Company O,Michael Fox,New Mexico,Product 4,159,8
+1476,2022-04-19,19,Company S,Oscar Knox,Arizona,Product 4,159,9
+1481,2022-04-20,18,Company R,Andrew James,Arizona,Product 4,159,8
+1487,2022-04-22,11,Company K,Anne Lee,New Mexico,Product 4,159,6
+1495,2022-04-25,7,Company G,Laura Larsen,California,Product 4,159,5
+1499,2022-04-27,18,Company R,Andrew James,Arizona,Product 4,159,1
+1502,2022-04-29,7,Company G,Kim Fishman,California,Product 4,159,7
+1513,2022-05-03,4,Company D,Anna Weber,Texas,Product 4,159,3
+1516,2022-05-03,1,Company A,Anna Weber,Texas,Product 4,159,0
+1520,2022-05-05,12,Company L,Anne Lee,New Mexico,Product 4,159,4
+1523,2022-05-07,11,Company K,Michael Fox,New Mexico,Product 4,159,3
+1524,2022-05-07,14,Company N,Anne Lee,New Mexico,Product 4,159,1
+1527,2022-05-07,16,Company P,Oscar Knox,Arizona,Product 4,159,7
+1528,2022-05-07,13,Company M,Anne Lee,New Mexico,Product 4,159,3
+1536,2022-05-10,19,Company S,Oscar Knox,Arizona,Product 4,159,3
+1540,2022-05-12,9,Company I,Laura Larsen,California,Product 4,159,6
+1547,2022-05-15,6,Company F,Kim Fishman,California,Product 4,159,5
+1548,2022-05-15,14,Company N,Michael Fox,New Mexico,Product 4,159,8
+1562,2022-05-20,1,Company A,Anna Weber,Texas,Product 4,159,4
+1571,2022-05-23,15,Company O,Anne Lee,New Mexico,Product 4,159,2
+1573,2022-05-25,5,Company E,Anna Weber,Texas,Product 4,159,3
+1575,2022-05-25,5,Company E,Ben Wallace,Texas,Product 4,159,2
+1585,2022-05-26,10,Company J,Kim Fishman,California,Product 4,159,6
+1588,2022-05-26,17,Company Q,Andrew James,Arizona,Product 4,159,9
+1590,2022-05-26,17,Company Q,Andrew James,Arizona,Product 4,159,2
+1592,2022-05-26,16,Company P,Oscar Knox,Arizona,Product 4,159,7
+1596,2022-05-28,5,Company E,Anna Weber,Texas,Product 4,159,2
+1598,2022-05-28,19,Company S,Andrew James,Arizona,Product 4,159,3
+1599,2022-05-28,5,Company E,Ben Wallace,Texas,Product 4,159,9
+1605,2022-05-29,6,Company F,Laura Larsen,California,Product 4,159,5
+1608,2022-05-30,17,Company Q,Andrew James,Arizona,Product 4,159,8
+1609,2022-05-30,3,Company C,Anna Weber,Texas,Product 4,159,8
+1611,2022-06-01,2,Company B,Ben Wallace,Texas,Product 4,159,1
+1612,2022-06-01,10,Company J,Laura Larsen,California,Product 4,159,2
+1617,2022-06-02,15,Company O,Michael Fox,New Mexico,Product 4,159,1
+1619,2022-06-04,20,Company T,Andrew James,Arizona,Product 4,159,4
+1621,2022-06-05,4,Company D,Ben Wallace,Texas,Product 4,159,2
+1623,2022-06-05,2,Company B,Anna Weber,Texas,Product 4,159,1
+1628,2022-06-06,17,Company Q,Andrew James,Arizona,Product 4,159,7
+1630,2022-06-06,4,Company D,Anna Weber,Texas,Product 4,159,4
+1633,2022-06-06,15,Company O,Anne Lee,New Mexico,Product 4,159,5
+1634,2022-06-06,2,Company B,Anna Weber,Texas,Product 4,159,8
+1641,2022-06-08,13,Company M,Michael Fox,New Mexico,Product 4,159,2
+1647,2022-06-10,13,Company M,Anne Lee,New Mexico,Product 4,159,9
+1649,2022-06-11,15,Company O,Michael Fox,New Mexico,Product 4,159,0
+1653,2022-06-12,15,Company O,Michael Fox,New Mexico,Product 4,159,1
+1668,2022-06-16,16,Company P,Oscar Knox,Arizona,Product 4,159,3
+1673,2022-06-17,18,Company R,Oscar Knox,Arizona,Product 4,159,6
+1677,2022-06-19,14,Company N,Anne Lee,New Mexico,Product 4,159,5
+1678,2022-06-20,6,Company F,Kim Fishman,California,Product 4,159,2
+1680,2022-06-22,4,Company D,Anna Weber,Texas,Product 4,159,5
+1683,2022-06-22,9,Company I,Laura Larsen,California,Product 4,159,4
+1684,2022-06-22,12,Company L,Anne Lee,New Mexico,Product 4,159,2
+1685,2022-06-22,3,Company C,Anna Weber,Texas,Product 4,159,8
+1686,2022-06-23,15,Company O,Michael Fox,New Mexico,Product 4,159,4
+1687,2022-06-23,9,Company I,Kim Fishman,California,Product 4,159,8
+1696,2022-06-30,9,Company I,Kim Fishman,California,Product 4,159,7
+1699,2022-07-02,11,Company K,Michael Fox,New Mexico,Product 4,159,0
+1704,2022-07-06,18,Company R,Andrew James,Arizona,Product 4,159,0
+1707,2022-07-09,19,Company S,Andrew James,Arizona,Product 4,159,0
+1712,2022-07-11,5,Company E,Anna Weber,Texas,Product 4,159,7
+1718,2022-07-12,7,Company G,Kim Fishman,California,Product 4,159,8
+1724,2022-07-14,20,Company T,Oscar Knox,Arizona,Product 4,159,1
+1728,2022-07-15,16,Company P,Oscar Knox,Arizona,Product 4,159,3
+1729,2022-07-15,2,Company B,Anna Weber,Texas,Product 4,159,4
+1733,2022-07-17,5,Company E,Anna Weber,Texas,Product 4,159,9
+1738,2022-07-19,18,Company R,Andrew James,Arizona,Product 4,159,6
+1759,2022-07-26,18,Company R,Andrew James,Arizona,Product 4,159,5
+1768,2022-08-01,15,Company O,Anne Lee,New Mexico,Product 4,159,1
+1770,2022-08-03,1,Company A,Ben Wallace,Texas,Product 4,159,8
+1778,2022-08-07,2,Company B,Anna Weber,Texas,Product 4,159,6
+1779,2022-08-07,10,Company J,Kim Fishman,California,Product 4,159,3
+1784,2022-08-08,14,Company N,Michael Fox,New Mexico,Product 4,159,1
+1790,2022-08-10,14,Company N,Anne Lee,New Mexico,Product 4,159,8
+1805,2022-08-12,13,Company M,Anne Lee,New Mexico,Product 4,159,3
+1813,2022-08-15,6,Company F,Kim Fishman,California,Product 4,159,6
+1814,2022-08-15,9,Company I,Kim Fishman,California,Product 4,159,6
+1816,2022-08-17,10,Company J,Kim Fishman,California,Product 4,159,9
+1824,2022-08-18,15,Company O,Michael Fox,New Mexico,Product 4,159,3
+1832,2022-08-21,14,Company N,Anne Lee,New Mexico,Product 4,159,1
+1842,2022-08-22,2,Company B,Anna Weber,Texas,Product 4,159,3
+1845,2022-08-22,5,Company E,Ben Wallace,Texas,Product 4,159,2
+1846,2022-08-23,7,Company G,Kim Fishman,California,Product 4,159,1
+1847,2022-08-23,2,Company B,Anna Weber,Texas,Product 4,159,6
+1850,2022-08-25,4,Company D,Ben Wallace,Texas,Product 4,159,1
+1854,2022-08-29,16,Company P,Oscar Knox,Arizona,Product 4,159,8
+1855,2022-08-29,4,Company D,Ben Wallace,Texas,Product 4,159,0
+1856,2022-08-30,19,Company S,Andrew James,Arizona,Product 4,159,7
+1871,2022-09-04,20,Company T,Oscar Knox,Arizona,Product 4,159,4
+1875,2022-09-06,3,Company C,Ben Wallace,Texas,Product 4,159,9
+1880,2022-09-06,11,Company K,Michael Fox,New Mexico,Product 4,159,3
+1891,2022-09-10,17,Company Q,Andrew James,Arizona,Product 4,159,7
+1894,2022-09-12,8,Company H,Laura Larsen,California,Product 4,159,0
+1897,2022-09-12,1,Company A,Anna Weber,Texas,Product 4,159,3
+1910,2022-09-18,14,Company N,Michael Fox,New Mexico,Product 4,159,7
+1920,2022-09-20,10,Company J,Laura Larsen,California,Product 4,159,9
+1923,2022-09-20,12,Company L,Anne Lee,New Mexico,Product 4,159,8
+1932,2022-09-24,7,Company G,Kim Fishman,California,Product 4,159,5
+1933,2022-09-24,2,Company B,Ben Wallace,Texas,Product 4,159,7
+1940,2022-09-28,12,Company L,Michael Fox,New Mexico,Product 4,159,1
+1951,2022-10-01,20,Company T,Oscar Knox,Arizona,Product 4,159,1
+1956,2022-10-02,13,Company M,Anne Lee,New Mexico,Product 4,159,5
+1960,2022-10-04,19,Company S,Andrew James,Arizona,Product 4,159,3
+1975,2022-10-07,6,Company F,Kim Fishman,California,Product 4,159,4
+1976,2022-10-07,15,Company O,Michael Fox,New Mexico,Product 4,159,1
+1977,2022-10-08,10,Company J,Kim Fishman,California,Product 4,159,6
+1979,2022-10-09,11,Company K,Anne Lee,New Mexico,Product 4,159,0
+1992,2022-10-15,5,Company E,Anna Weber,Texas,Product 4,159,7
+5,2021-01-04,16,Company P,Oscar Knox,Arizona,Product 3,69,4
+16,2021-01-06,13,Company M,Michael Fox,New Mexico,Product 3,69,0
+19,2021-01-07,10,Company J,Laura Larsen,California,Product 3,69,2
+21,2021-01-07,10,Company J,Laura Larsen,California,Product 3,69,2
+33,2021-01-10,6,Company F,Laura Larsen,California,Product 3,69,2
+39,2021-01-12,19,Company S,Andrew James,Arizona,Product 3,69,8
+42,2021-01-13,17,Company Q,Andrew James,Arizona,Product 3,69,5
+48,2021-01-13,16,Company P,Oscar Knox,Arizona,Product 3,69,1
+52,2021-01-13,1,Company A,Ben Wallace,Texas,Product 3,69,2
+53,2021-01-14,17,Company Q,Andrew James,Arizona,Product 3,69,7
+56,2021-01-15,20,Company T,Andrew James,Arizona,Product 3,69,9
+58,2021-01-15,11,Company K,Michael Fox,New Mexico,Product 3,69,9
+67,2021-01-20,16,Company P,Oscar Knox,Arizona,Product 3,69,2
+76,2021-01-24,18,Company R,Oscar Knox,Arizona,Product 3,69,7
+77,2021-01-24,8,Company H,Laura Larsen,California,Product 3,69,2
+82,2021-01-24,5,Company E,Anna Weber,Texas,Product 3,69,1
+83,2021-01-24,10,Company J,Laura Larsen,California,Product 3,69,2
+88,2021-01-27,12,Company L,Michael Fox,New Mexico,Product 3,69,2
+90,2021-01-27,12,Company L,Anne Lee,New Mexico,Product 3,69,2
+95,2021-01-29,7,Company G,Laura Larsen,California,Product 3,69,8
+96,2021-01-30,15,Company O,Michael Fox,New Mexico,Product 3,69,9
+97,2021-01-30,11,Company K,Anne Lee,New Mexico,Product 3,69,7
+101,2021-01-31,18,Company R,Oscar Knox,Arizona,Product 3,69,4
+102,2021-02-01,10,Company J,Kim Fishman,California,Product 3,69,4
+103,2021-02-01,20,Company T,Andrew James,Arizona,Product 3,69,6
+115,2021-02-05,2,Company B,Ben Wallace,Texas,Product 3,69,7
+116,2021-02-05,14,Company N,Michael Fox,New Mexico,Product 3,69,7
+122,2021-02-08,8,Company H,Laura Larsen,California,Product 3,69,6
+135,2021-02-12,16,Company P,Oscar Knox,Arizona,Product 3,69,5
+139,2021-02-13,13,Company M,Michael Fox,New Mexico,Product 3,69,4
+154,2021-02-14,8,Company H,Kim Fishman,California,Product 3,69,8
+162,2021-02-16,15,Company O,Anne Lee,New Mexico,Product 3,69,5
+164,2021-02-17,13,Company M,Anne Lee,New Mexico,Product 3,69,1
+166,2021-02-18,15,Company O,Michael Fox,New Mexico,Product 3,69,0
+167,2021-02-18,12,Company L,Anne Lee,New Mexico,Product 3,69,1
+169,2021-02-18,10,Company J,Laura Larsen,California,Product 3,69,4
+170,2021-02-18,6,Company F,Laura Larsen,California,Product 3,69,3
+172,2021-02-19,11,Company K,Michael Fox,New Mexico,Product 3,69,5
+180,2021-02-21,20,Company T,Oscar Knox,Arizona,Product 3,69,3
+181,2021-02-21,20,Company T,Andrew James,Arizona,Product 3,69,1
+197,2021-03-01,18,Company R,Andrew James,Arizona,Product 3,69,8
+211,2021-03-08,4,Company D,Ben Wallace,Texas,Product 3,69,4
+214,2021-03-10,5,Company E,Ben Wallace,Texas,Product 3,69,6
+216,2021-03-11,18,Company R,Oscar Knox,Arizona,Product 3,69,9
+233,2021-03-15,9,Company I,Laura Larsen,California,Product 3,69,8
+236,2021-03-16,20,Company T,Andrew James,Arizona,Product 3,69,8
+237,2021-03-16,4,Company D,Anna Weber,Texas,Product 3,69,7
+241,2021-03-16,4,Company D,Anna Weber,Texas,Product 3,69,5
+248,2021-03-18,18,Company R,Andrew James,Arizona,Product 3,69,5
+257,2021-03-19,2,Company B,Anna Weber,Texas,Product 3,69,8
+260,2021-03-20,14,Company N,Michael Fox,New Mexico,Product 3,69,9
+266,2021-03-25,12,Company L,Anne Lee,New Mexico,Product 3,69,4
+279,2021-03-26,9,Company I,Kim Fishman,California,Product 3,69,9
+281,2021-03-26,20,Company T,Andrew James,Arizona,Product 3,69,3
+286,2021-03-27,13,Company M,Anne Lee,New Mexico,Product 3,69,6
+291,2021-03-30,19,Company S,Oscar Knox,Arizona,Product 3,69,3
+295,2021-03-31,7,Company G,Laura Larsen,California,Product 3,69,3
+296,2021-03-31,9,Company I,Kim Fishman,California,Product 3,69,4
+298,2021-03-31,13,Company M,Anne Lee,New Mexico,Product 3,69,4
+300,2021-04-01,7,Company G,Kim Fishman,California,Product 3,69,2
+302,2021-04-03,6,Company F,Laura Larsen,California,Product 3,69,6
+304,2021-04-04,2,Company B,Ben Wallace,Texas,Product 3,69,1
+310,2021-04-06,6,Company F,Laura Larsen,California,Product 3,69,0
+319,2021-04-10,14,Company N,Michael Fox,New Mexico,Product 3,69,3
+320,2021-04-11,12,Company L,Anne Lee,New Mexico,Product 3,69,0
+326,2021-04-14,7,Company G,Kim Fishman,California,Product 3,69,2
+335,2021-04-15,2,Company B,Ben Wallace,Texas,Product 3,69,9
+337,2021-04-17,11,Company K,Anne Lee,New Mexico,Product 3,69,8
+339,2021-04-18,8,Company H,Kim Fishman,California,Product 3,69,6
+342,2021-04-19,19,Company S,Andrew James,Arizona,Product 3,69,1
+346,2021-04-19,17,Company Q,Oscar Knox,Arizona,Product 3,69,2
+351,2021-04-19,4,Company D,Ben Wallace,Texas,Product 3,69,6
+354,2021-04-20,5,Company E,Anna Weber,Texas,Product 3,69,1
+358,2021-04-22,2,Company B,Anna Weber,Texas,Product 3,69,2
+361,2021-04-22,10,Company J,Kim Fishman,California,Product 3,69,7
+366,2021-04-23,7,Company G,Laura Larsen,California,Product 3,69,0
+376,2021-04-25,16,Company P,Andrew James,Arizona,Product 3,69,3
+381,2021-04-27,5,Company E,Anna Weber,Texas,Product 3,69,5
+382,2021-04-28,7,Company G,Laura Larsen,California,Product 3,69,8
+388,2021-04-28,20,Company T,Andrew James,Arizona,Product 3,69,4
+393,2021-04-29,14,Company N,Anne Lee,New Mexico,Product 3,69,7
+395,2021-05-01,18,Company R,Oscar Knox,Arizona,Product 3,69,3
+401,2021-05-04,5,Company E,Anna Weber,Texas,Product 3,69,0
+407,2021-05-06,16,Company P,Andrew James,Arizona,Product 3,69,7
+412,2021-05-06,13,Company M,Michael Fox,New Mexico,Product 3,69,7
+414,2021-05-07,19,Company S,Oscar Knox,Arizona,Product 3,69,6
+423,2021-05-12,5,Company E,Ben Wallace,Texas,Product 3,69,4
+424,2021-05-12,1,Company A,Ben Wallace,Texas,Product 3,69,8
+428,2021-05-13,13,Company M,Anne Lee,New Mexico,Product 3,69,3
+429,2021-05-14,18,Company R,Andrew James,Arizona,Product 3,69,9
+437,2021-05-15,2,Company B,Ben Wallace,Texas,Product 3,69,7
+438,2021-05-15,2,Company B,Ben Wallace,Texas,Product 3,69,6
+440,2021-05-15,19,Company S,Andrew James,Arizona,Product 3,69,8
+443,2021-05-15,14,Company N,Michael Fox,New Mexico,Product 3,69,6
+444,2021-05-16,17,Company Q,Andrew James,Arizona,Product 3,69,7
+446,2021-05-16,18,Company R,Andrew James,Arizona,Product 3,69,7
+451,2021-05-16,10,Company J,Kim Fishman,California,Product 3,69,7
+452,2021-05-16,7,Company G,Laura Larsen,California,Product 3,69,3
+455,2021-05-17,14,Company N,Anne Lee,New Mexico,Product 3,69,9
+480,2021-05-23,18,Company R,Oscar Knox,Arizona,Product 3,69,9
+482,2021-05-24,11,Company K,Michael Fox,New Mexico,Product 3,69,6
+483,2021-05-24,16,Company P,Oscar Knox,Arizona,Product 3,69,6
+491,2021-05-25,17,Company Q,Andrew James,Arizona,Product 3,69,3
+498,2021-05-26,8,Company H,Laura Larsen,California,Product 3,69,8
+506,2021-05-29,17,Company Q,Oscar Knox,Arizona,Product 3,69,4
+510,2021-05-30,2,Company B,Anna Weber,Texas,Product 3,69,5
+512,2021-05-30,2,Company B,Ben Wallace,Texas,Product 3,69,9
+513,2021-05-31,14,Company N,Anne Lee,New Mexico,Product 3,69,3
+514,2021-06-01,14,Company N,Michael Fox,New Mexico,Product 3,69,0
+524,2021-06-03,4,Company D,Anna Weber,Texas,Product 3,69,9
+536,2021-06-05,17,Company Q,Andrew James,Arizona,Product 3,69,0
+547,2021-06-11,6,Company F,Kim Fishman,California,Product 3,69,7
+551,2021-06-11,5,Company E,Anna Weber,Texas,Product 3,69,5
+575,2021-06-20,18,Company R,Andrew James,Arizona,Product 3,69,1
+576,2021-06-20,4,Company D,Ben Wallace,Texas,Product 3,69,3
+584,2021-06-22,18,Company R,Andrew James,Arizona,Product 3,69,0
+587,2021-06-22,20,Company T,Andrew James,Arizona,Product 3,69,3
+588,2021-06-23,17,Company Q,Oscar Knox,Arizona,Product 3,69,1
+593,2021-06-26,17,Company Q,Oscar Knox,Arizona,Product 3,69,9
+597,2021-06-27,4,Company D,Anna Weber,Texas,Product 3,69,8
+601,2021-06-28,10,Company J,Laura Larsen,California,Product 3,69,3
+608,2021-06-30,12,Company L,Michael Fox,New Mexico,Product 3,69,4
+609,2021-06-30,19,Company S,Oscar Knox,Arizona,Product 3,69,4
+610,2021-07-01,12,Company L,Anne Lee,New Mexico,Product 3,69,8
+613,2021-07-02,15,Company O,Anne Lee,New Mexico,Product 3,69,2
+616,2021-07-05,11,Company K,Anne Lee,New Mexico,Product 3,69,7
+627,2021-07-08,18,Company R,Oscar Knox,Arizona,Product 3,69,4
+629,2021-07-08,2,Company B,Ben Wallace,Texas,Product 3,69,6
+632,2021-07-10,17,Company Q,Oscar Knox,Arizona,Product 3,69,3
+636,2021-07-12,16,Company P,Oscar Knox,Arizona,Product 3,69,5
+645,2021-07-16,1,Company A,Anna Weber,Texas,Product 3,69,9
+654,2021-07-18,1,Company A,Anna Weber,Texas,Product 3,69,0
+657,2021-07-18,6,Company F,Laura Larsen,California,Product 3,69,3
+662,2021-07-20,9,Company I,Laura Larsen,California,Product 3,69,2
+666,2021-07-22,13,Company M,Anne Lee,New Mexico,Product 3,69,0
+667,2021-07-23,14,Company N,Anne Lee,New Mexico,Product 3,69,8
+668,2021-07-24,10,Company J,Kim Fishman,California,Product 3,69,2
+676,2021-07-26,15,Company O,Michael Fox,New Mexico,Product 3,69,4
+678,2021-07-26,18,Company R,Andrew James,Arizona,Product 3,69,6
+680,2021-07-26,13,Company M,Michael Fox,New Mexico,Product 3,69,3
+681,2021-07-26,3,Company C,Ben Wallace,Texas,Product 3,69,4
+686,2021-07-27,1,Company A,Ben Wallace,Texas,Product 3,69,1
+687,2021-07-27,15,Company O,Anne Lee,New Mexico,Product 3,69,0
+716,2021-08-05,4,Company D,Anna Weber,Texas,Product 3,69,8
+727,2021-08-08,17,Company Q,Andrew James,Arizona,Product 3,69,3
+739,2021-08-13,1,Company A,Ben Wallace,Texas,Product 3,69,6
+743,2021-08-15,19,Company S,Oscar Knox,Arizona,Product 3,69,9
+744,2021-08-16,12,Company L,Anne Lee,New Mexico,Product 3,69,5
+763,2021-08-21,17,Company Q,Oscar Knox,Arizona,Product 3,69,8
+773,2021-08-26,20,Company T,Andrew James,Arizona,Product 3,69,0
+774,2021-08-26,15,Company O,Michael Fox,New Mexico,Product 3,69,2
+781,2021-08-28,11,Company K,Anne Lee,New Mexico,Product 3,69,6
+787,2021-08-30,14,Company N,Michael Fox,New Mexico,Product 3,69,1
+797,2021-09-02,4,Company D,Ben Wallace,Texas,Product 3,69,2
+798,2021-09-02,20,Company T,Andrew James,Arizona,Product 3,69,6
+804,2021-09-04,16,Company P,Oscar Knox,Arizona,Product 3,69,1
+808,2021-09-06,13,Company M,Anne Lee,New Mexico,Product 3,69,5
+810,2021-09-06,15,Company O,Michael Fox,New Mexico,Product 3,69,5
+811,2021-09-06,14,Company N,Michael Fox,New Mexico,Product 3,69,9
+817,2021-09-08,20,Company T,Oscar Knox,Arizona,Product 3,69,5
+823,2021-09-10,11,Company K,Anne Lee,New Mexico,Product 3,69,8
+829,2021-09-12,14,Company N,Michael Fox,New Mexico,Product 3,69,4
+834,2021-09-15,6,Company F,Laura Larsen,California,Product 3,69,6
+836,2021-09-16,5,Company E,Anna Weber,Texas,Product 3,69,6
+858,2021-09-24,17,Company Q,Oscar Knox,Arizona,Product 3,69,5
+862,2021-09-25,17,Company Q,Oscar Knox,Arizona,Product 3,69,8
+865,2021-09-26,16,Company P,Oscar Knox,Arizona,Product 3,69,6
+866,2021-09-26,19,Company S,Andrew James,Arizona,Product 3,69,2
+868,2021-09-27,9,Company I,Laura Larsen,California,Product 3,69,7
+871,2021-09-28,9,Company I,Laura Larsen,California,Product 3,69,6
+875,2021-09-29,4,Company D,Ben Wallace,Texas,Product 3,69,6
+893,2021-10-05,5,Company E,Ben Wallace,Texas,Product 3,69,3
+911,2021-10-13,18,Company R,Oscar Knox,Arizona,Product 3,69,9
+915,2021-10-14,3,Company C,Anna Weber,Texas,Product 3,69,2
+917,2021-10-15,18,Company R,Andrew James,Arizona,Product 3,69,2
+936,2021-10-20,2,Company B,Anna Weber,Texas,Product 3,69,8
+937,2021-10-21,17,Company Q,Oscar Knox,Arizona,Product 3,69,5
+947,2021-10-25,15,Company O,Michael Fox,New Mexico,Product 3,69,4
+950,2021-10-26,20,Company T,Oscar Knox,Arizona,Product 3,69,8
+959,2021-10-29,2,Company B,Anna Weber,Texas,Product 3,69,6
+960,2021-10-29,9,Company I,Kim Fishman,California,Product 3,69,6
+961,2021-10-29,18,Company R,Andrew James,Arizona,Product 3,69,3
+962,2021-10-29,9,Company I,Kim Fishman,California,Product 3,69,2
+968,2021-10-30,19,Company S,Oscar Knox,Arizona,Product 3,69,3
+974,2021-11-04,1,Company A,Anna Weber,Texas,Product 3,69,7
+976,2021-11-04,2,Company B,Ben Wallace,Texas,Product 3,69,1
+979,2021-11-07,16,Company P,Oscar Knox,Arizona,Product 3,69,9
+984,2021-11-08,12,Company L,Michael Fox,New Mexico,Product 3,69,0
+995,2021-11-11,10,Company J,Kim Fishman,California,Product 3,69,1
+1013,2021-11-17,9,Company I,Laura Larsen,California,Product 3,69,8
+1020,2021-11-21,20,Company T,Andrew James,Arizona,Product 3,69,9
+1024,2021-11-22,15,Company O,Anne Lee,New Mexico,Product 3,69,7
+1027,2021-11-22,3,Company C,Ben Wallace,Texas,Product 3,69,5
+1033,2021-11-23,15,Company O,Michael Fox,New Mexico,Product 3,69,7
+1043,2021-11-24,3,Company C,Ben Wallace,Texas,Product 3,69,4
+1051,2021-11-27,1,Company A,Ben Wallace,Texas,Product 3,69,9
+1052,2021-11-28,10,Company J,Kim Fishman,California,Product 3,69,7
+1053,2021-11-28,15,Company O,Anne Lee,New Mexico,Product 3,69,1
+1066,2021-12-04,2,Company B,Anna Weber,Texas,Product 3,69,7
+1072,2021-12-07,4,Company D,Anna Weber,Texas,Product 3,69,7
+1074,2021-12-08,10,Company J,Kim Fishman,California,Product 3,69,7
+1075,2021-12-08,4,Company D,Anna Weber,Texas,Product 3,69,5
+1079,2021-12-11,10,Company J,Kim Fishman,California,Product 3,69,6
+1086,2021-12-13,11,Company K,Anne Lee,New Mexico,Product 3,69,1
+1087,2021-12-13,3,Company C,Anna Weber,Texas,Product 3,69,5
+1094,2021-12-16,5,Company E,Ben Wallace,Texas,Product 3,69,1
+1097,2021-12-17,1,Company A,Anna Weber,Texas,Product 3,69,6
+1099,2021-12-18,3,Company C,Anna Weber,Texas,Product 3,69,2
+1101,2021-12-18,8,Company H,Kim Fishman,California,Product 3,69,9
+1112,2021-12-20,10,Company J,Kim Fishman,California,Product 3,69,6
+1113,2021-12-20,19,Company S,Oscar Knox,Arizona,Product 3,69,7
+1114,2021-12-20,13,Company M,Michael Fox,New Mexico,Product 3,69,8
+1125,2021-12-23,19,Company S,Oscar Knox,Arizona,Product 3,69,5
+1131,2021-12-25,4,Company D,Ben Wallace,Texas,Product 3,69,7
+1133,2021-12-25,8,Company H,Laura Larsen,California,Product 3,69,2
+1143,2021-12-28,17,Company Q,Oscar Knox,Arizona,Product 3,69,6
+1152,2022-01-03,1,Company A,Ben Wallace,Texas,Product 3,69,7
+1154,2022-01-05,4,Company D,Ben Wallace,Texas,Product 3,69,1
+1155,2022-01-05,12,Company L,Michael Fox,New Mexico,Product 3,69,5
+1157,2022-01-05,17,Company Q,Oscar Knox,Arizona,Product 3,69,6
+1164,2022-01-07,7,Company G,Kim Fishman,California,Product 3,69,6
+1167,2022-01-08,13,Company M,Anne Lee,New Mexico,Product 3,69,9
+1169,2022-01-08,13,Company M,Anne Lee,New Mexico,Product 3,69,6
+1175,2022-01-12,16,Company P,Andrew James,Arizona,Product 3,69,1
+1176,2022-01-12,8,Company H,Kim Fishman,California,Product 3,69,1
+1180,2022-01-12,14,Company N,Michael Fox,New Mexico,Product 3,69,8
+1189,2022-01-13,12,Company L,Michael Fox,New Mexico,Product 3,69,4
+1193,2022-01-14,3,Company C,Ben Wallace,Texas,Product 3,69,0
+1198,2022-01-16,16,Company P,Andrew James,Arizona,Product 3,69,9
+1199,2022-01-16,16,Company P,Andrew James,Arizona,Product 3,69,5
+1200,2022-01-16,16,Company P,Oscar Knox,Arizona,Product 3,69,2
+1201,2022-01-17,16,Company P,Oscar Knox,Arizona,Product 3,69,1
+1204,2022-01-17,5,Company E,Anna Weber,Texas,Product 3,69,3
+1206,2022-01-17,17,Company Q,Oscar Knox,Arizona,Product 3,69,6
+1213,2022-01-20,16,Company P,Oscar Knox,Arizona,Product 3,69,2
+1215,2022-01-21,4,Company D,Anna Weber,Texas,Product 3,69,6
+1218,2022-01-22,12,Company L,Michael Fox,New Mexico,Product 3,69,7
+1231,2022-01-28,2,Company B,Ben Wallace,Texas,Product 3,69,3
+1233,2022-01-28,5,Company E,Anna Weber,Texas,Product 3,69,2
+1241,2022-02-03,6,Company F,Laura Larsen,California,Product 3,69,5
+1248,2022-02-05,11,Company K,Michael Fox,New Mexico,Product 3,69,4
+1250,2022-02-05,3,Company C,Anna Weber,Texas,Product 3,69,6
+1258,2022-02-08,11,Company K,Michael Fox,New Mexico,Product 3,69,6
+1268,2022-02-14,2,Company B,Anna Weber,Texas,Product 3,69,9
+1279,2022-02-19,17,Company Q,Oscar Knox,Arizona,Product 3,69,4
+1282,2022-02-19,6,Company F,Kim Fishman,California,Product 3,69,8
+1285,2022-02-19,2,Company B,Ben Wallace,Texas,Product 3,69,8
+1306,2022-02-23,7,Company G,Kim Fishman,California,Product 3,69,5
+1311,2022-02-25,4,Company D,Ben Wallace,Texas,Product 3,69,4
+1315,2022-02-26,12,Company L,Anne Lee,New Mexico,Product 3,69,8
+1316,2022-02-26,1,Company A,Anna Weber,Texas,Product 3,69,9
+1320,2022-02-27,8,Company H,Kim Fishman,California,Product 3,69,4
+1321,2022-02-28,10,Company J,Kim Fishman,California,Product 3,69,9
+1335,2022-03-06,18,Company R,Oscar Knox,Arizona,Product 3,69,2
+1339,2022-03-07,19,Company S,Oscar Knox,Arizona,Product 3,69,7
+1342,2022-03-07,17,Company Q,Andrew James,Arizona,Product 3,69,0
+1346,2022-03-08,11,Company K,Michael Fox,New Mexico,Product 3,69,7
+1353,2022-03-10,6,Company F,Laura Larsen,California,Product 3,69,5
+1356,2022-03-11,7,Company G,Kim Fishman,California,Product 3,69,1
+1358,2022-03-11,13,Company M,Anne Lee,New Mexico,Product 3,69,2
+1363,2022-03-11,2,Company B,Anna Weber,Texas,Product 3,69,4
+1374,2022-03-16,13,Company M,Anne Lee,New Mexico,Product 3,69,9
+1382,2022-03-19,5,Company E,Ben Wallace,Texas,Product 3,69,1
+1389,2022-03-19,1,Company A,Anna Weber,Texas,Product 3,69,9
+1393,2022-03-20,18,Company R,Andrew James,Arizona,Product 3,69,3
+1402,2022-03-23,8,Company H,Laura Larsen,California,Product 3,69,8
+1433,2022-04-04,5,Company E,Ben Wallace,Texas,Product 3,69,5
+1436,2022-04-04,20,Company T,Oscar Knox,Arizona,Product 3,69,9
+1438,2022-04-05,4,Company D,Ben Wallace,Texas,Product 3,69,7
+1442,2022-04-05,15,Company O,Michael Fox,New Mexico,Product 3,69,1
+1447,2022-04-07,7,Company G,Kim Fishman,California,Product 3,69,6
+1453,2022-04-09,9,Company I,Kim Fishman,California,Product 3,69,6
+1457,2022-04-09,17,Company Q,Andrew James,Arizona,Product 3,69,5
+1458,2022-04-10,15,Company O,Michael Fox,New Mexico,Product 3,69,0
+1469,2022-04-16,12,Company L,Anne Lee,New Mexico,Product 3,69,2
+1470,2022-04-17,1,Company A,Anna Weber,Texas,Product 3,69,0
+1472,2022-04-18,19,Company S,Andrew James,Arizona,Product 3,69,0
+1482,2022-04-20,4,Company D,Anna Weber,Texas,Product 3,69,0
+1484,2022-04-21,18,Company R,Andrew James,Arizona,Product 3,69,2
+1486,2022-04-22,1,Company A,Ben Wallace,Texas,Product 3,69,5
+1489,2022-04-23,6,Company F,Laura Larsen,California,Product 3,69,4
+1501,2022-04-28,8,Company H,Kim Fishman,California,Product 3,69,8
+1506,2022-04-30,20,Company T,Oscar Knox,Arizona,Product 3,69,4
+1510,2022-05-02,1,Company A,Anna Weber,Texas,Product 3,69,9
+1517,2022-05-03,17,Company Q,Andrew James,Arizona,Product 3,69,5
+1518,2022-05-03,3,Company C,Anna Weber,Texas,Product 3,69,8
+1519,2022-05-04,14,Company N,Anne Lee,New Mexico,Product 3,69,9
+1522,2022-05-06,15,Company O,Anne Lee,New Mexico,Product 3,69,9
+1525,2022-05-07,3,Company C,Ben Wallace,Texas,Product 3,69,6
+1533,2022-05-09,18,Company R,Andrew James,Arizona,Product 3,69,4
+1534,2022-05-09,1,Company A,Anna Weber,Texas,Product 3,69,1
+1535,2022-05-09,7,Company G,Kim Fishman,California,Product 3,69,5
+1538,2022-05-10,3,Company C,Ben Wallace,Texas,Product 3,69,6
+1554,2022-05-17,13,Company M,Anne Lee,New Mexico,Product 3,69,0
+1557,2022-05-17,1,Company A,Ben Wallace,Texas,Product 3,69,7
+1567,2022-05-21,17,Company Q,Andrew James,Arizona,Product 3,69,2
+1569,2022-05-22,8,Company H,Laura Larsen,California,Product 3,69,2
+1570,2022-05-22,14,Company N,Michael Fox,New Mexico,Product 3,69,9
+1578,2022-05-25,7,Company G,Laura Larsen,California,Product 3,69,3
+1581,2022-05-25,9,Company I,Kim Fishman,California,Product 3,69,0
+1589,2022-05-26,7,Company G,Laura Larsen,California,Product 3,69,3
+1591,2022-05-26,16,Company P,Andrew James,Arizona,Product 3,69,5
+1606,2022-05-29,16,Company P,Oscar Knox,Arizona,Product 3,69,1
+1610,2022-05-31,18,Company R,Andrew James,Arizona,Product 3,69,4
+1615,2022-06-02,3,Company C,Ben Wallace,Texas,Product 3,69,6
+1616,2022-06-02,10,Company J,Laura Larsen,California,Product 3,69,4
+1618,2022-06-03,19,Company S,Andrew James,Arizona,Product 3,69,1
+1631,2022-06-06,17,Company Q,Andrew James,Arizona,Product 3,69,7
+1636,2022-06-07,2,Company B,Ben Wallace,Texas,Product 3,69,3
+1640,2022-06-08,19,Company S,Oscar Knox,Arizona,Product 3,69,5
+1651,2022-06-11,20,Company T,Andrew James,Arizona,Product 3,69,0
+1659,2022-06-14,13,Company M,Anne Lee,New Mexico,Product 3,69,4
+1661,2022-06-15,9,Company I,Kim Fishman,California,Product 3,69,5
+1662,2022-06-15,20,Company T,Andrew James,Arizona,Product 3,69,8
+1669,2022-06-16,18,Company R,Andrew James,Arizona,Product 3,69,8
+1672,2022-06-17,4,Company D,Ben Wallace,Texas,Product 3,69,8
+1681,2022-06-22,6,Company F,Laura Larsen,California,Product 3,69,5
+1692,2022-06-27,9,Company I,Kim Fishman,California,Product 3,69,3
+1697,2022-07-01,14,Company N,Michael Fox,New Mexico,Product 3,69,8
+1706,2022-07-08,7,Company G,Laura Larsen,California,Product 3,69,3
+1711,2022-07-10,13,Company M,Anne Lee,New Mexico,Product 3,69,2
+1715,2022-07-12,5,Company E,Ben Wallace,Texas,Product 3,69,3
+1717,2022-07-12,11,Company K,Michael Fox,New Mexico,Product 3,69,1
+1737,2022-07-18,1,Company A,Ben Wallace,Texas,Product 3,69,3
+1739,2022-07-20,3,Company C,Ben Wallace,Texas,Product 3,69,3
+1743,2022-07-21,19,Company S,Andrew James,Arizona,Product 3,69,2
+1744,2022-07-21,9,Company I,Kim Fishman,California,Product 3,69,4
+1746,2022-07-22,9,Company I,Laura Larsen,California,Product 3,69,4
+1748,2022-07-22,11,Company K,Anne Lee,New Mexico,Product 3,69,0
+1750,2022-07-24,19,Company S,Andrew James,Arizona,Product 3,69,1
+1751,2022-07-25,15,Company O,Michael Fox,New Mexico,Product 3,69,4
+1753,2022-07-25,12,Company L,Anne Lee,New Mexico,Product 3,69,8
+1754,2022-07-25,2,Company B,Ben Wallace,Texas,Product 3,69,9
+1758,2022-07-25,5,Company E,Ben Wallace,Texas,Product 3,69,9
+1762,2022-07-28,19,Company S,Oscar Knox,Arizona,Product 3,69,8
+1764,2022-07-29,9,Company I,Kim Fishman,California,Product 3,69,2
+1775,2022-08-04,7,Company G,Laura Larsen,California,Product 3,69,9
+1785,2022-08-08,9,Company I,Laura Larsen,California,Product 3,69,0
+1793,2022-08-11,17,Company Q,Andrew James,Arizona,Product 3,69,0
+1794,2022-08-11,2,Company B,Ben Wallace,Texas,Product 3,69,9
+1795,2022-08-11,7,Company G,Laura Larsen,California,Product 3,69,5
+1806,2022-08-12,17,Company Q,Andrew James,Arizona,Product 3,69,7
+1807,2022-08-12,4,Company D,Ben Wallace,Texas,Product 3,69,3
+1809,2022-08-14,8,Company H,Kim Fishman,California,Product 3,69,5
+1811,2022-08-15,15,Company O,Anne Lee,New Mexico,Product 3,69,4
+1812,2022-08-15,11,Company K,Anne Lee,New Mexico,Product 3,69,8
+1817,2022-08-17,8,Company H,Laura Larsen,California,Product 3,69,8
+1820,2022-08-17,2,Company B,Anna Weber,Texas,Product 3,69,9
+1828,2022-08-19,18,Company R,Andrew James,Arizona,Product 3,69,6
+1829,2022-08-19,13,Company M,Anne Lee,New Mexico,Product 3,69,4
+1833,2022-08-21,8,Company H,Laura Larsen,California,Product 3,69,5
+1837,2022-08-22,6,Company F,Kim Fishman,California,Product 3,69,3
+1848,2022-08-24,1,Company A,Ben Wallace,Texas,Product 3,69,5
+1851,2022-08-26,14,Company N,Anne Lee,New Mexico,Product 3,69,2
+1852,2022-08-27,11,Company K,Michael Fox,New Mexico,Product 3,69,9
+1853,2022-08-28,16,Company P,Andrew James,Arizona,Product 3,69,2
+1859,2022-08-30,6,Company F,Kim Fishman,California,Product 3,69,0
+1866,2022-09-01,7,Company G,Laura Larsen,California,Product 3,69,6
+1872,2022-09-05,10,Company J,Laura Larsen,California,Product 3,69,7
+1878,2022-09-06,9,Company I,Kim Fishman,California,Product 3,69,1
+1881,2022-09-07,9,Company I,Kim Fishman,California,Product 3,69,8
+1883,2022-09-08,8,Company H,Laura Larsen,California,Product 3,69,4
+1888,2022-09-08,3,Company C,Anna Weber,Texas,Product 3,69,7
+1889,2022-09-09,18,Company R,Oscar Knox,Arizona,Product 3,69,3
+1905,2022-09-17,14,Company N,Anne Lee,New Mexico,Product 3,69,5
+1906,2022-09-17,16,Company P,Andrew James,Arizona,Product 3,69,8
+1907,2022-09-17,1,Company A,Anna Weber,Texas,Product 3,69,2
+1909,2022-09-18,15,Company O,Anne Lee,New Mexico,Product 3,69,8
+1913,2022-09-19,16,Company P,Oscar Knox,Arizona,Product 3,69,5
+1914,2022-09-19,9,Company I,Laura Larsen,California,Product 3,69,0
+1941,2022-09-28,11,Company K,Anne Lee,New Mexico,Product 3,69,3
+1943,2022-09-29,18,Company R,Oscar Knox,Arizona,Product 3,69,3
+1950,2022-09-30,9,Company I,Laura Larsen,California,Product 3,69,7
+1953,2022-10-01,18,Company R,Andrew James,Arizona,Product 3,69,0
+1959,2022-10-03,12,Company L,Michael Fox,New Mexico,Product 3,69,7
+1968,2022-10-05,1,Company A,Ben Wallace,Texas,Product 3,69,2
+1971,2022-10-05,17,Company Q,Oscar Knox,Arizona,Product 3,69,6
+1972,2022-10-05,8,Company H,Kim Fishman,California,Product 3,69,0
+1980,2022-10-09,17,Company Q,Oscar Knox,Arizona,Product 3,69,4
+1982,2022-10-09,15,Company O,Anne Lee,New Mexico,Product 3,69,1
+1986,2022-10-12,1,Company A,Anna Weber,Texas,Product 3,69,8
+1994,2022-10-16,3,Company C,Anna Weber,Texas,Product 3,69,3
+1996,2022-10-16,9,Company I,Laura Larsen,California,Product 3,69,8
+1997,2022-10-16,5,Company E,Ben Wallace,Texas,Product 3,69,6
